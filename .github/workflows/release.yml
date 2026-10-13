@@ -1,0 +1,27 @@
+name: Release
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package
+        shell: pwsh
+        run: |
+          $dst = "Lumen"
+          New-Item -ItemType Directory $dst | Out-Null
+          Get-ChildItem -Force | Where-Object { $_.Name -notin @('.git', '.github', $dst) } | Copy-Item -Destination $dst -Recurse -Force
+          Compress-Archive -Path $dst -DestinationPath Lumen-win-x64.zip
+      - name: Publish release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = if ($env:GITHUB_REF_TYPE -eq 'tag') { $env:GITHUB_REF_NAME } else { 'v1.0.0' }
+          $notes = "Unzip anywhere and run GlassControl.exe /tray (Lumen) and dock\GlassDock.exe (dock). No install or admin rights needed. Windows 10 x64. See README.md."
+          gh release create $tag Lumen-win-x64.zip --title "Lumen $tag" --notes $notes
