@@ -1,0 +1,1504 @@
+Levétel a dokkról	Remove from Dock	Vom Dock lösen
+Kitűzés a dokkra	Pin to Dock	An Dock anheften
+Új ablak / indítás	New Window / Launch	Neues Fenster / Starten
+Méret (ikonméret)	Size (Icon Size)	Größe (Symbolgröße)
+Közepes (56)	Medium (56)	Mittel (56)
+Szélesség	Width	Breite
+Szélesebb (+60)	Wider (+60)	Breiter (+60)
+Üveghatás / sötétség	Glass Effect / Darkness	Glaseffekt / Dunkelheit
+Átlátszó üveg (30)	Transparent Glass (30)	Transparentes Glas (30)
+Üveg (65)	Glass (65)	Glas (65)
+Sötét üveg (100)	Dark Glass (100)	Dunkles Glas (100)
+Nagyon sötét (150)	Very Dark (150)	Sehr dunkel (150)
+Lekerekítés	Corner Rounding	Eckenrundung
+Szögletes	Square	Eckig
+Kicsi	Small	Klein
+Közepes	Medium	Mittel
+Pilula	Pill	Pille
+Start gomb	Start Button	Startschaltfläche
+Fekete-fehér ikonok	Black-and-White Icons	Schwarz-Weiß-Symbole
+Üveg ikonháttér (csempe)	Glass Icon Background (Tile)	Glas-Symbolhintergrund (Kachel)
+Automatikus elrejtés (egér a képernyő aljára)	Auto-Hide (Mouse to Bottom of Screen)	Automatisch ausblenden (Maus an den unteren Bildschirmrand)
+Windows tálca ikonjainak elrejtése	Hide Windows Taskbar Icons	Windows-Taskleistensymbole ausblenden
+Alkalmazás hozzáadása...	Add Application...	Anwendung hinzufügen...
+Alapértelmezett méret és hely	Default Size and Position	Standardgröße und -position
+Kilépés	Exit	Beenden
+Keresés	Search	Suchen
+Windows beállítások	Windows Settings	Windows-Einstellungen
+Parancssor (jobb klikk: rendszergazdaként)	Command Prompt (right-click: as administrator)	Eingabeaufforderung (Rechtsklick: als Administrator)
+PowerShell (jobb klikk: rendszergazdaként)	PowerShell (right-click: as administrator)	PowerShell (Rechtsklick: als Administrator)
++  Alkalmazás hozzáadása	+  Add Application	+  Anwendung hinzufügen
+Kattints: fájl kiválasztása. Vagy húzz ide egy programot/parancsikont. Jobb klikk: több lehetőség.	Click: choose a file. Or drag a program/shortcut here. Right-click: more options.	Klicken: Datei auswählen. Oder ein Programm/eine Verknüpfung hierher ziehen. Rechtsklick: weitere Optionen.
+Kikapcsolás	Turn Off	Ausschalten
+Alkalmazás hozzáadása	Add Application	Anwendung hinzufügen
+Programok és parancsikonok|*.exe;*.lnk;*.url;*.bat;*.cmd|Minden fájl|*.*	Programs and Shortcuts|*.exe;*.lnk;*.url;*.bat;*.cmd|All Files|*.*	Programme und Verknüpfungen|*.exe;*.lnk;*.url;*.bat;*.cmd|Alle Dateien|*.*
+Elrejtett alkalmazások visszahozása	Restore Hidden Apps	Ausgeblendete Apps wiederherstellen
+Sorrend visszaállítása (ABC)	Reset Order (A–Z)	Reihenfolge zurücksetzen (A–Z)
+Alvás	Sleep	Energie sparen
+Újraindítás	Restart	Neu starten
+Leállítás	Shut Down	Herunterfahren
+Kijelentkezés	Sign Out	Abmelden
+Megnyitás	Open	Öffnen
+Futtatás rendszergazdaként	Run as Administrator	Als Administrator ausführen
+Eltávolítás a menüből	Remove from Menu	Aus dem Menü entfernen
+Elrejtés a menüből	Hide from Menu	Im Menü ausblenden
+Megnyitás rendszergazdaként	Open as Administrator	Als Administrator öffnen
+unter-egér: 	under-mouse: 	unter Maus: 
+hiba: 	error: 	Fehler: 
+Spotlight keresés	Spotlight Search	Spotlight-Suche
+Számolás: 	Calculate: 	Berechnen: 
+ (Enter = másolás)	 (Enter = copy)	 (Eingabetaste = kopieren)
+Számológép	Calculator	Rechner
+ felszabadítása	 release	 freigeben
+Az azon figyelő folyamat leállítása	Stop the process listening on it	Den darauf lauschenden Prozess beenden
+Művelet	Action	Aktion
+memó	memo	Notiz
+RAM seprés most	Sweep RAM Now	RAM jetzt bereinigen
+A Lumen azonnal összehúzza a folyamatok munkakészletét	Lumen instantly trims the working set of processes	Lumen verkleinert sofort den Arbeitssatz der Prozesse
+Alkalmazás	Application	Anwendung
+Beállítások	Settings	Einstellungen
+Feladatkezelő	Task Manager	Task-Manager
+Folyamatok és teljesítmény	Processes and Performance	Prozesse und Leistung
+Parancssor	Command Prompt	Eingabeaufforderung
+Zárolás	Lock	Sperren
+Képernyő zárolása	Lock Screen	Bildschirm sperren
+Megnyitás: 	Open: 	Öffnen: 
+Link a vágólapon	Link on Clipboard	Link in der Zwischenablage
+Vágólap	Clipboard	Zwischenablage
+Megmutatás az Intézőben	Show in Explorer	Im Explorer anzeigen
+JSON szépítése → vágólap	Prettify JSON → Clipboard	JSON formatieren → Zwischenablage
+A vágólapon JSON van	The clipboard contains JSON	Die Zwischenablage enthält JSON
+Szín a vágólapon (Enter = másolás RGB-ként)	Color on clipboard (Enter = copy as RGB)	Farbe in der Zwischenablage (Eingabetaste = als RGB kopieren)
+Mappa	Folder	Ordner
+Fájl	File	Datei
+Keresés a weben: 	Search the web: 	Im Web suchen: 
+Alapértelmezett böngésző	Default Browser	Standardbrowser
+Lapok és osztott panelek – több shell egy ablakban, húzható elválasztók, panel-kinagyítás, lap-átnevezés/színezés/átrendezés, bezárt lap újranyitása	Tabs and split panes – multiple shells in one window, draggable dividers, pane zoom, tab rename/color/reorder, reopen closed tab	Tabs und geteilte Bereiche – mehrere Shells in einem Fenster, ziehbare Trennlinien, Bereichsvergrößerung, Tabs umbenennen/einfärben/neu anordnen, geschlossenen Tab erneut öffnen
+Parancspaletta (Ctrl+Shift+P) – minden funkció egy helyen, fuzzy kereséssel; a gyorsbillentyűk a keys.ini-ben átírhatók	Command palette (Ctrl+Shift+P) – every function in one place, with fuzzy search; shortcuts can be changed in keys.ini	Befehlspalette (Ctrl+Shift+P) – alle Funktionen an einem Ort, mit unscharfer Suche; Tastenkürzel können in der keys.ini geändert werden
+Fuzzy előzmény-kereső (Ctrl+R) – a PowerShell teljes előzményében és az összes nyitott lap parancsaiban keres, Shift+Enter azonnal futtat	Fuzzy history search (Ctrl+R) – searches the full PowerShell history and the commands of all open tabs, Shift+Enter runs immediately	Unscharfe Verlaufssuche (Ctrl+R) – durchsucht den gesamten PowerShell-Verlauf und die Befehle aller geöffneten Tabs, Umschalt+Eingabe führt sofort aus
+Parancs-blokkok – minden parancs mellett ✓/✗ jelvény + futási idő, hibánál piros sáv; Ctrl+Fel/Le ugrás a parancsok között, az utolsó kimenet egy kattintással másolható/kijelölhető, a parancs újrafuttatható	Command blocks – ✓/✗ badge + run time next to every command, red bar on error; Ctrl+Up/Down jumps between commands, the last output can be copied/selected with one click, the command can be re-run	Befehlsblöcke – ✓/✗-Symbol + Laufzeit neben jedem Befehl, roter Balken bei Fehlern; Ctrl+Auf/Ab springt zwischen Befehlen, die letzte Ausgabe lässt sich mit einem Klick kopieren/markieren, der Befehl kann erneut ausgeführt werden
+Kattintható linkek és fájlútvonalak – URL a böngészőben, fájl:sor:oszlop a szerkesztőben (VS Code / Antigravity), mappa az Intézőben, relatív útvonalak a munkamappához képest	Clickable links and file paths – URL in the browser, file:line:column in the editor (VS Code / Antigravity), folder in Explorer, relative paths resolved against the working directory	Anklickbare Links und Dateipfade – URL im Browser, Datei:Zeile:Spalte im Editor (VS Code / Antigravity), Ordner im Explorer, relative Pfade bezogen auf das Arbeitsverzeichnis
+Keresés a teljes görgetősávban – találat-számláló, kis/nagybetű és regex kapcsoló, F3 / Shift+F3	Search across the entire scrollback – match counter, case-sensitivity and regex toggles, F3 / Shift+F3	Suche im gesamten Scrollback – Trefferzähler, Schalter für Groß-/Kleinschreibung und Regex, F3 / Umschalt+F3
+Beillesztés-védelem – többsoros szöveg beillesztése előtt jóváhagyás, okos idézőjel/kötőjel javítás, egy sorba / idézőjelezett útvonalként beillesztés	Paste protection – confirmation before pasting multi-line text, smart quote/dash correction, paste as a single line / as a quoted path	Einfügeschutz – Bestätigung vor dem Einfügen mehrzeiligen Texts, intelligente Korrektur von Anführungszeichen/Bindestrichen, Einfügen als einzelne Zeile / als Pfad in Anführungszeichen
+Quake mód – globális gyorsbillentyűvel (Ctrl+Alt+Space) a képernyő tetejéről lecsúszó terminál	Quake mode – a terminal that slides down from the top of the screen with a global hotkey (Ctrl+Alt+Space)	Quake-Modus – ein Terminal, das per globaler Tastenkombination (Ctrl+Alt+Space) vom oberen Bildschirmrand herunterfährt
+Profilok és munkamenet-visszaállítás – PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node, SSH-gazdák automatikusan; induláskor a lapok és mappák visszatérnek	Profiles and session restore – PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node, SSH hosts automatically; tabs and folders return on startup	Profile und Sitzungswiederherstellung – PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node, SSH-Hosts automatisch; beim Start kehren Tabs und Ordner zurück
+Élő előnézet a terminál alatt – localhost-os cím (Vite, Next, Express…) felismerése, „Előnézet alul” egy kattintással vagy `preview 5173` paranccsal; valódi Edge-motor, DevTools, telefon/tablet nézet	Live preview below the terminal – detects localhost addresses (Vite, Next, Express…), “Preview below” with one click or the `preview 5173` command; real Edge engine, DevTools, phone/tablet view	Live-Vorschau unter dem Terminal – erkennt localhost-Adressen (Vite, Next, Express…), „Vorschau unten“ mit einem Klick oder mit dem Befehl `preview 5173`; echte Edge-Engine, DevTools, Smartphone-/Tablet-Ansicht
+Értesítés hosszú parancsra – ha a parancs elfut, miközben máshol dolgozol: villogó tálcagomb + buborék, lap-jelzés, a végén idő és kilépési kód	Long-command notification – when the command finishes while you work elsewhere: flashing taskbar button + balloon, tab indicator, time and exit code at the end	Benachrichtigung bei langen Befehlen – wenn der Befehl endet, während Sie woanders arbeiten: blinkende Taskleistenschaltfläche + Sprechblase, Tab-Markierung, am Ende Zeit und Exitcode
+14 beépített színtéma, élő váltással	14 built-in color themes with live switching	14 integrierte Farbschemata mit Live-Wechsel
+DejaVu Sans Mono beágyazva, ligatúra-mentes, pontos cellakirajzolás	DejaVu Sans Mono embedded, ligature-free, precise cell rendering	DejaVu Sans Mono eingebettet, ligaturfrei, präzise Zellendarstellung
+Truecolor (24 bit) és 256 színű paletta	Truecolor (24-bit) and 256-color palette	Truecolor (24 Bit) und 256-Farben-Palette
+Félkövér, halvány, dőlt, aláhúzott, áthúzott, fordított, villogó karakterek	Bold, dim, italic, underlined, strikethrough, reverse, blinking characters	Fett, blass, kursiv, unterstrichen, durchgestrichen, invertiert, blinkende Zeichen
+Dupla aláhúzás és színes aláhúzás	Double underline and colored underline	Doppelte Unterstreichung und farbige Unterstreichung
+Teljes Unicode, széles (CJK, emoji) karakterek két cellában	Full Unicode, wide characters (CJK, emoji) in two cells	Vollständiges Unicode, breite Zeichen (CJK, Emoji) in zwei Zellen
+Alternatív képernyő (vim, less, htop, fzf)	Alternate screen (vim, less, htop, fzf)	Alternativer Bildschirm (vim, less, htop, fzf)
+Görgetősáv húzható csúszkával	Scrollbar with draggable thumb	Bildlaufleiste mit ziehbarem Schieberegler
+Kurzor-forma és villogás, alkalmazás által állítható (DECSCUSR)	Cursor shape and blinking, settable by applications (DECSCUSR)	Cursorform und Blinken, von Anwendungen einstellbar (DECSCUSR)
+Egérjelentés (1000/1002/1003, SGR 1006) – mc, htop, vim egér támogatás	Mouse reporting (1000/1002/1003, SGR 1006) – mouse support for mc, htop, vim	Mausberichte (1000/1002/1003, SGR 1006) – Mausunterstützung für mc, htop, vim
+Fókusz-események (1004)	Focus events (1004)	Fokusereignisse (1004)
+Bracketed paste mód	Bracketed paste mode	Bracketed-Paste-Modus
+OSC 0/2 ablakcím	OSC 0/2 window title	OSC 0/2 Fenstertitel
+OSC 7 munkamappa-követés	OSC 7 working directory tracking	OSC 7 Arbeitsverzeichnis-Verfolgung
+OSC 9 / 777 értesítések	OSC 9 / 777 notifications	OSC 9 / 777 Benachrichtigungen
+OSC 52 vágólap-írás (távoli gépről is)	OSC 52 clipboard write (also from a remote machine)	OSC 52 Zwischenablage-Schreiben (auch von einem entfernten Rechner)
+OSC 133 kilépési kód	OSC 133 exit code	OSC 133 Exitcode
+Kijelölés: dupla kattintás szó, hármas kattintás sor, Alt+húzás téglalap	Selection: double-click word, triple-click line, Alt+drag rectangle	Auswahl: Doppelklick Wort, Dreifachklick Zeile, Alt+Ziehen Rechteck
+Automatikus másolás kijelöléskor (kapcsolható)	Auto-copy on selection (toggleable)	Automatisch kopieren beim Auswählen (umschaltbar)
+Középső gomb = beillesztés (kapcsolható)	Middle button = paste (toggleable)	Mittlere Maustaste = Einfügen (umschaltbar)
+Ctrl+görgetés = nagyítás	Ctrl+scroll = zoom	Ctrl+Scrollen = Zoomen
+Sima görgetés, finomhangolható sebesség	Smooth scrolling, adjustable speed	Sanftes Scrollen, einstellbare Geschwindigkeit
+Fájl / mappa ráhúzása a terminálra: útvonal beillesztése idézőjelezve	Drop a file / folder onto the terminal: path is pasted in quotes	Datei / Ordner auf das Terminal ziehen: Pfad wird in Anführungszeichen eingefügt
+Vizuális és hangos csengő	Visual and audible bell	Visuelle und akustische Glocke
+Inaktív panelek halványítása	Dim inactive panes	Inaktive Bereiche abdunkeln
+Munkamappa követése lapnévként	Follow working directory as tab name	Arbeitsverzeichnis als Tab-Name verwenden
+Futó parancs neve a lapon	Running command name on the tab	Name des laufenden Befehls auf dem Tab
+Lap-aktivitás és csengő jelzése háttérlapon	Tab activity and bell indicator on background tabs	Tab-Aktivität und Glockenanzeige bei Hintergrund-Tabs
+Broadcast – a gépelés minden panelre megy	Broadcast – typing goes to every pane	Broadcast – Eingaben gehen an alle Bereiche
+Munkamenet-napló fájlba (nyers kimenet)	Session log to file (raw output)	Sitzungsprotokoll in Datei (Rohausgabe)
+Export: szöveg, HTML (színekkel), PNG, vágólapra HTML/kép	Export: text, HTML (with colors), PNG, HTML/image to clipboard	Export: Text, HTML (mit Farben), PNG, HTML/Bild in die Zwischenablage
+Glass kontextusmenü mindenhol	Glass context menu everywhere	Glas-Kontextmenü überall
+Snippetek változókkal ({clip} {cwd} {date} {ask:…})	Snippets with variables ({clip} {cwd} {date} {ask:…})	Snippets mit Variablen ({clip} {cwd} {date} {ask:…})
+Vágólap-előzmény (40 elem)	Clipboard history (40 items)	Zwischenablageverlauf (40 Einträge)
+Gyorsbillentyű-felülírás a keys.ini-ben	Shortcut override in keys.ini	Tastenkürzel-Überschreibung in der keys.ini
+Beállítások a term.ini-ben, élő újratöltés	Settings in term.ini, live reload	Einstellungen in der term.ini, Live-Neuladen
+Saját PowerShell-kiegészítések: lumen-user.ps1	Custom PowerShell extensions: lumen-user.ps1	Eigene PowerShell-Erweiterungen: lumen-user.ps1
+Beépített PowerShell-segédparancsok (lumen help)	Built-in PowerShell helper commands (lumen help)	Integrierte PowerShell-Hilfsbefehle (lumen help)
+# Lumen Terminal – funkciók	# Lumen Terminal – features	# Lumen Terminal – Funktionen
+A lista a parancspaletta (Ctrl+Shift+P) valódi műveleti jegyzékéből készül, így mindig naprakész. Gyorsbillentyűk: `keys.ini` (`azonosító=Ctrl+Shift+X`).	The list is generated from the real action registry of the command palette (Ctrl+Shift+P), so it is always up to date. Shortcuts: `keys.ini` (`azonosító=Ctrl+Shift+X`).	Die Liste wird aus dem tatsächlichen Aktionsverzeichnis der Befehlspalette (Ctrl+Shift+P) erstellt und ist daher immer aktuell. Tastenkürzel: `keys.ini` (`azonosító=Ctrl+Shift+X`).
+## Nagy újítások (amit a sima cmd nem tud)	## Major innovations (what plain cmd can't do)	## Wichtige Neuerungen (was das einfache cmd nicht kann)
+## Műveletek a parancspalettában	## Actions in the command palette	## Aktionen in der Befehlspalette
+## Beépített működés (nem műveletként elérhető)	## Built-in behavior (not available as an action)	## Integriertes Verhalten (nicht als Aktion verfügbar)
+Összesen: 	Total: 	Insgesamt: 
+ funkció (	 features (	 Funktionen (
+ nagy újítás + 	 major innovations + 	 wichtige Neuerungen + 
+ paletta-művelet + 	 palette actions + 	 Paletten-Aktionen + 
+ beépített képesség).	 built-in capabilities).	 integrierte Fähigkeiten).
+Kivágás	Cut	Ausschneiden
+Másolás	Copy	Kopieren
+Beillesztés	Paste	Einfügen
+Összes kijelölése	Select All	Alles auswählen
+Törlés	Clear	Löschen
+Keresés (Ctrl+F)	Find (Ctrl+F)	Suchen (Ctrl+F)
+Osztás jobbra (Ctrl+Shift+D)	Split Right (Ctrl+Shift+D)	Rechts teilen (Ctrl+Shift+D)
+Új ablak	New Window	Neues Fenster
+Visszaállítás	Restore	Wiederherstellen
+Teljes méret	Full Size	Vollgröße
+Minimalizálás	Minimize	Minimieren
+Mindig felül	Always on Top	Immer im Vordergrund
+Lenyíló (quake) mód	Drop-Down (Quake) Mode	Dropdown-Modus (Quake)
+Parancspaletta…	Command Palette…	Befehlspalette…
+Gyorsbillentyűk listája	Keyboard Shortcuts List	Liste der Tastenkürzel
+Beállítások (term.ini) megnyitása	Open Settings (term.ini)	Einstellungen öffnen (term.ini)
+Bezárás	Close	Schließen
+ gyorsbillentyű foglalt – állítsd át: quakekey= a term.ini-ben	 hotkey is already in use – change it: quakekey= in term.ini	 Tastenkombination ist bereits belegt – ändern: quakekey= in der term.ini
+--- másik panel: 	--- other pane: 	--- anderer Bereich: 
+# Lumen Terminal beállításai (a Terminal maga írja; kézzel is szerkeszthető, mentés után indítsd újra)	# Lumen Terminal settings (written by the Terminal itself; can also be edited by hand, restart after saving)	# Lumen Terminal-Einstellungen (vom Terminal selbst geschrieben; kann auch von Hand bearbeitet werden, nach dem Speichern neu starten)
+# shell: powershell | pwsh | cmd | tetszőleges parancssor	# shell: powershell | pwsh | cmd | any command line	# shell: powershell | pwsh | cmd | beliebige Befehlszeile
+# profile.1=Név|parancssor|induló mappa   (saját profilok a + menüben)	# profile.1=Name|command line|start folder   (custom profiles in the + menu)	# profile.1=Name|Befehlszeile|Startordner   (eigene Profile im +-Menü)
+macOS Basic (világos)	macOS Basic (light)	macOS Basic (hell)
+Másolva · 	Copied · 	Kopiert · 
+ karakter	 characters	 Zeichen
+Új lap (Ctrl+Shift+T)	New Tab (Ctrl+Shift+T)	Neuer Tab (Ctrl+Shift+T)
+Profilok	Profiles	Profile
+Lap bezárása	Close Tab	Tab schließen
+A lapban még fut egy shell. Bezárod?	A shell is still running in this tab. Close it?	In diesem Tab läuft noch eine Shell. Schließen?
+\r\n[a shell leállt – Ctrl+Shift+W: bezárás, vagy parancspaletta → Shell újraindítása]\r\n	\r\n[the shell has exited – Ctrl+Shift+W: close, or command palette → Restart shell]\r\n	\r\n[die Shell wurde beendet – Ctrl+Shift+W: schließen, oder Befehlspalette → Shell neu starten]\r\n
+Panel kinagyítva (újra: visszaállítás)	Pane maximized (again: restore)	Bereich maximiert (erneut: wiederherstellen)
+Panelek visszaállítva	Panes restored	Bereiche wiederhergestellt
+Parancs kész	Command finished	Befehl abgeschlossen
+Parancs hibával fejeződött be	Command finished with an error	Befehl mit Fehler beendet
+Előnézethez csak http/https cím adható meg	Only http/https addresses can be given for preview	Für die Vorschau sind nur http/https-Adressen zulässig
+Előnézet – cím vagy port (pl. 5173)	Preview – address or port (e.g. 5173)	Vorschau – Adresse oder Port (z. B. 5173)
+ Megnyitom a böngészőben.	 I'll open it in the browser.	 Ich öffne es im Browser.
+📺 Előnézet alul	📺 Preview Below	📺 Vorschau unten
+↗ Böngészőben	↗ In Browser	↗ Im Browser
+Ezt a linktípust nem nyitom meg (csak http/https/mailto)	This link type will not be opened (only http/https/mailto)	Dieser Linktyp wird nicht geöffnet (nur http/https/mailto)
+Nem található: 	Not found: 	Nicht gefunden: 
+Futtatható fájlt nem indítok el kattintásra – megmutattam az Intézőben	Executable files are not launched on click – shown in Explorer instead	Ausführbare Dateien werden per Klick nicht gestartet – stattdessen im Explorer angezeigt
+Megnyitás sikertelen: 	Open failed: 	Öffnen fehlgeschlagen: 
+Mégse	Cancel	Abbrechen
+Beillesztés / igen	Paste / Yes	Einfügen / Ja
+Veszélyes	Dangerous	Gefährlich
+Nincs találat	No results	Keine Treffer
+Parancs keresése…  (Ctrl+Shift+P)	Search command…  (Ctrl+Shift+P)	Befehl suchen…  (Ctrl+Shift+P)
+Ugrás lapra…	Go to tab…	Zu Tab wechseln…
+Előzmények (Enter: beírás, Shift+Enter: futtatás)	History (Enter: type in, Shift+Enter: run)	Verlauf (Eingabetaste: einfügen, Umschalt+Eingabe: ausführen)
+ kar.	 chars	 Zeichen
+A vágólap-előzmény még üres (másolj valamit a terminálban)	Clipboard history is still empty (copy something in the terminal)	Der Zwischenablageverlauf ist noch leer (kopieren Sie etwas im Terminal)
+Vágólap-előzmény (Enter: beillesztés)	Clipboard history (Enter: paste)	Zwischenablageverlauf (Eingabetaste: einfügen)
+# név|parancs   (a parancs elé tett ! azonnal le is futtatja; változók: {clip} {cwd} {date} {time} {user} {host} {lastcmd} {ask:Címke})	# name|command   (a ! before the command also runs it immediately; variables: {clip} {cwd} {date} {time} {user} {host} {lastcmd} {ask:Label})	# Name|Befehl   (ein ! vor dem Befehl führt ihn auch sofort aus; Variablen: {clip} {cwd} {date} {time} {user} {host} {lastcmd} {ask:Bezeichnung})
+git állapot|!git status -sb	git status|!git status -sb	Git-Status|!git status -sb
+git napló (gráf)|!git log --oneline --graph --decorate -n 25	git log (graph)|!git log --oneline --graph --decorate -n 25	Git-Protokoll (Graph)|!git log --oneline --graph --decorate -n 25
+git commit mindenre|git add -A; git commit -m "{ask:Commit üzenet}"	git commit everything|git add -A; git commit -m "{ask:Commit message}"	Git-Commit für alles|git add -A; git commit -m "{ask:Commit-Nachricht}"
+git ág váltás|git checkout {ask:Ág neve}	git switch branch|git checkout {ask:Branch name}	Git-Branch wechseln|git checkout {ask:Branch-Name}
+pnpm telepítés|!pnpm install	pnpm install|!pnpm install	pnpm installieren|!pnpm install
+npm telepítés|!npm install	npm install|!npm install	npm installieren|!npm install
+port használata|netstat -ano | findstr :{ask:Port}	port in use|netstat -ano | findstr :{ask:Port}	Port in Verwendung|netstat -ano | findstr :{ask:Port}
+port felszabadítása|killport {ask:Port}	free up port|killport {ask:Port}	Port freigeben|killport {ask:Port}
+legnagyobb fájlok|!Get-ChildItem -Recurse -File | Sort-Object Length -Descending | Select-Object -First 15 FullName, @{n='MB';e={[int]($_.Length/1MB)}}	largest files|!Get-ChildItem -Recurse -File | Sort-Object Length -Descending | Select-Object -First 15 FullName, @{n='MB';e={[int]($_.Length/1MB)}}	größte Dateien|!Get-ChildItem -Recurse -File | Sort-Object Length -Descending | Select-Object -First 15 FullName, @{n='MB';e={[int]($_.Length/1MB)}}
+mappa méretei|!size	folder sizes|!size	Ordnergrößen|!size
+folyamatok memória szerint|!Get-Process | Sort-Object WS -Descending | Select-Object -First 15 Name, Id, @{n='MB';e={[int]($_.WS/1MB)}}	processes by memory|!Get-Process | Sort-Object WS -Descending | Select-Object -First 15 Name, Id, @{n='MB';e={[int]($_.WS/1MB)}}	Prozesse nach Speicher|!Get-Process | Sort-Object WS -Descending | Select-Object -First 15 Name, Id, @{n='MB';e={[int]($_.WS/1MB)}}
+IP-címek|!myip	IP addresses|!myip	IP-Adressen|!myip
+DNS ürítés|!ipconfig /flushdns	flush DNS|!ipconfig /flushdns	DNS leeren|!ipconfig /flushdns
+hálózat tesztelése|!ping 1.1.1.1 -n 4	test network|!ping 1.1.1.1 -n 4	Netzwerk testen|!ping 1.1.1.1 -n 4
+fájl keresése név szerint|ff {ask:Név}	find file by name|ff {ask:Name}	Datei nach Name suchen|ff {ask:Name}
+szöveg keresése fájlokban|grep "{ask:Keresett szöveg}" . -i	search text in files|grep "{ask:Search text}" . -i	Text in Dateien suchen|grep "{ask:Suchtext}" . -i
+venv létrehozása|python -m venv .venv; .\\.venv\\Scripts\\Activate.ps1	create venv|python -m venv .venv; .\\.venv\\Scripts\\Activate.ps1	venv erstellen|python -m venv .venv; .\\.venv\\Scripts\\Activate.ps1
+projekt megnyitása szerkesztőben|!edit .	open project in editor|!edit .	Projekt im Editor öffnen|!edit .
+mappa megnyitása Intézőben|!open .	open folder in Explorer|!open .	Ordner im Explorer öffnen|!open .
+JSON szépítés vágólapról|{clip} | json	prettify JSON from clipboard|{clip} | json	JSON aus Zwischenablage formatieren|{clip} | json
+idő most|!now	time now|!now	Uhrzeit jetzt|!now
+beír	type in	eingeben
+Snippetek…  (a snippets.txt fájlban szerkeszthetők)	Snippets…  (editable in the snippets.txt file)	Snippets…  (in der Datei snippets.txt bearbeitbar)
+Még nincs végrehajtott parancs	No command has been run yet	Es wurde noch kein Befehl ausgeführt
+Snippet mentve: 	Snippet saved: 	Snippet gespeichert: 
+Kis/nagybetű számít	Match Case	Groß-/Kleinschreibung beachten
+Reguláris kifejezés	Regular Expression	Regulärer Ausdruck
+Előző (Shift+Enter)	Previous (Shift+Enter)	Vorheriger (Umschalt+Eingabe)
+Következő (Enter)	Next (Enter)	Nächster (Eingabetaste)
+Bezár (Esc)	Close (Esc)	Schließen (Esc)
+Átnevezés…	Rename…	Umbenennen…
+Lap neve (üresen: automatikus)	Tab name (empty: automatic)	Tab-Name (leer: automatisch)
+Másolás új lapra (ugyanott)	Copy to New Tab (same location)	In neuen Tab kopieren (gleicher Ort)
+Szín	Color	Farbe
+Piros	Red	Rot
+Narancs	Orange	Orange
+Sárga	Yellow	Gelb
+Zöld	Green	Grün
+Kék	Blue	Blau
+Lila	Purple	Lila
+Nincs	None	Keine
+Balra mozgat	Move Left	Nach links verschieben
+Jobbra mozgat	Move Right	Nach rechts verschieben
+Többi lap bezárása	Close Other Tabs	Andere Tabs schließen
+Jobbra lévők bezárása	Close Tabs to the Right	Tabs rechts davon schließen
+Profilok beállítása (term.ini)	Configure Profiles (term.ini)	Profile konfigurieren (term.ini)
+Link megnyitása	Open Link	Link öffnen
+📺 Előnézet alul (a terminálban)	📺 Preview Below (in the terminal)	📺 Vorschau unten (im Terminal)
+Link másolása	Copy Link	Link kopieren
+Másolás HTML-ként (színekkel)	Copy as HTML (with colors)	Als HTML kopieren (mit Farben)
+Másolás HTML-ként	Copy as HTML	Als HTML kopieren
+Beillesztés másképp	Paste Special	Einfügen als
+Formázás nélkül	Without Formatting	Ohne Formatierung
+Egy sorba	As Single Line	In eine Zeile
+Idézőjelezett útvonalként	As Quoted Path	Als Pfad in Anführungszeichen
+Vágólap-előzmény…	Clipboard History…	Zwischenablageverlauf…
+Keresés…	Search…	Suchen…
+Előzmények…	History…	Verlauf…
+Snippetek…	Snippets…	Snippets…
+Utolsó kimenet másolása	Copy Last Output	Letzte Ausgabe kopieren
+Utolsó parancs újrafuttatása	Rerun Last Command	Letzten Befehl erneut ausführen
+Osztás jobbra	Split Right	Nach rechts teilen
+Osztás lefelé	Split Down	Nach unten teilen
+Panel bezárása	Close Pane	Bereich schließen
+Téma	Theme	Design
+Lapok	Tabs	Registerkarten
+Panelek	Panes	Bereiche
+Szerkesztés	Edit	Bearbeiten
+Nézet	View	Ansicht
+Navigáció	Navigation	Navigation
+Parancs-blokk	Command Block	Befehlsblock
+Beállítás	Settings	Einstellungen
+Ablak	Window	Fenster
+Súgó	Help	Hilfe
+Új lap	New Tab	Neue Registerkarte
+Lap duplikálása (ugyanabban a mappában)	Duplicate Tab (Same Folder)	Registerkarte duplizieren (im selben Ordner)
+Jobbra lévő lapok bezárása	Close Tabs to the Right	Registerkarten rechts schließen
+Bezárt lap újranyitása	Reopen Closed Tab	Geschlossene Registerkarte wiederherstellen
+Nincs újranyitható lap	No tab to reopen	Keine Registerkarte zum Wiederherstellen
+Következő lap	Next Tab	Nächste Registerkarte
+Előző lap	Previous Tab	Vorherige Registerkarte
+Ugrás a(z) 	Go to tab 	Wechseln zu Registerkarte 
+Lap mozgatása balra	Move Tab Left	Registerkarte nach links verschieben
+Lap mozgatása jobbra	Move Tab Right	Registerkarte nach rechts verschieben
+Lap átnevezése…	Rename Tab…	Registerkarte umbenennen…
+Ugrás lapra… (lista)	Go to Tab… (list)	Zu Registerkarte wechseln… (Liste)
+Lap színe: 	Tab color: 	Registerkartenfarbe: 
+Lap színe: nincs	Tab color: none	Registerkartenfarbe: keine
+Lapsáv mindig látszik	Always Show Tab Bar	Registerkartenleiste immer anzeigen
+Profil	Profile	Profil
+Új lap: 	New tab: 	Neue Registerkarte: 
+Osztás jobbra (új panel)	Split Right (New Pane)	Nach rechts teilen (neuer Bereich)
+Osztás lefelé (új panel)	Split Down (New Pane)	Nach unten teilen (neuer Bereich)
+Következő panel	Next Pane	Nächster Bereich
+Előző panel	Previous Pane	Vorheriger Bereich
+Panel kinagyítása / visszaállítása	Zoom / Restore Pane	Bereich vergrößern / wiederherstellen
+Panelek egyenlő méretűre	Equalize Pane Sizes	Bereiche gleich groß machen
+Bevitel küldése minden panelre (broadcast)	Send Input to All Panes (broadcast)	Eingabe an alle Bereiche senden (Broadcast)
+Broadcast BE: a gépelés minden panelre megy	Broadcast ON: typing goes to all panes	Broadcast EIN: Eingaben gehen an alle Bereiche
+Teljes kimenet másolása	Copy Entire Output	Gesamte Ausgabe kopieren
+Teljes kimenet másolva	Entire output copied	Gesamte Ausgabe kopiert
+Munkamappa másolása	Copy Working Directory	Arbeitsverzeichnis kopieren
+Másolva: 	Copied: 	Kopiert: 
+Beillesztés formázás nélkül (okos idézőjelek javítva)	Paste Without Formatting (smart quotes fixed)	Ohne Formatierung einfügen (typografische Anführungszeichen korrigiert)
+Beillesztés egy sorba	Paste as Single Line	In eine Zeile einfügen
+Beillesztés idézőjelezett útvonalként	Paste as Quoted Path	Als Pfad in Anführungszeichen einfügen
+Aktuális sor kijelölése	Select Current Line	Aktuelle Zeile auswählen
+Kijelölés megszüntetése	Clear Selection	Auswahl aufheben
+Parancs-előzmények keresése…	Search Command History…	Befehlsverlauf durchsuchen…
+Utolsó parancs mentése snippetként…	Save Last Command as Snippet…	Letzten Befehl als Snippet speichern…
+Keresés a kimenetben…	Search in Output…	In der Ausgabe suchen…
+Következő találat	Next Match	Nächster Treffer
+Előző találat	Previous Match	Vorheriger Treffer
+Keresősáv bezárása	Close Search Bar	Suchleiste schließen
+Betű nagyítása	Increase Font Size	Schrift vergrößern
+Betű kicsinyítése	Decrease Font Size	Schrift verkleinern
+Betűméret alaphelyzet	Reset Font Size	Schriftgröße zurücksetzen
+Betűtípus: 	Font: 	Schriftart: 
+Sortávolság növelése	Increase Line Spacing	Zeilenabstand vergrößern
+Sortávolság csökkentése	Decrease Line Spacing	Zeilenabstand verkleinern
+Belső margó növelése	Increase Padding	Innenabstand vergrößern
+Belső margó csökkentése	Decrease Padding	Innenabstand verkleinern
+Ablak átlátszóbb	More Transparent Window	Fenster transparenter
+Ablak áttetszőbb → tömörebb	More Translucent Window → More Opaque	Fenster durchscheinender → undurchsichtiger
+Ablak átlátszóság alaphelyzet	Reset Window Transparency	Fenstertransparenz zurücksetzen
+Téglalap	Block	Block
+Aláhúzás	Underline	Unterstrich
+Függőleges vonal	Vertical Bar	Senkrechter Strich
+Kurzor: 	Cursor: 	Cursor: 
+Kurzor villogása	Cursor Blink	Cursor blinkt
+Titok-őr: API-kulcsok elmosása a kimenetben (egérrel fölé víve látszik)	Secret Guard: blur API keys in output (visible on hover)	Geheimnisschutz: API-Schlüssel in der Ausgabe verwischen (bei Mauszeiger sichtbar)
+Nem aktív panelek halványítása	Dim Inactive Panes	Inaktive Bereiche abdunkeln
+Parancs-jelvények (idő, kilépési kód)	Command Badges (time, exit code)	Befehlsabzeichen (Zeit, Exitcode)
+Teljes méret / visszaállítás	Maximize / Restore	Maximieren / Wiederherstellen
+Téma: 	Theme: 	Design: 
+Görgetés az elejére	Scroll to Top	Zum Anfang scrollen
+Görgetés a végére	Scroll to Bottom	Zum Ende scrollen
+Egy oldal fel	Page Up	Eine Seite nach oben
+Egy oldal le	Page Down	Eine Seite nach unten
+Egy sor fel	Line Up	Eine Zeile nach oben
+Egy sor le	Line Down	Eine Zeile nach unten
+Előző parancs (prompt) a görgetősávban	Previous Command (prompt) in Scrollback	Vorheriger Befehl (Prompt) im Scrollback
+Következő parancs (prompt)	Next Command (prompt)	Nächster Befehl (Prompt)
+Utolsó parancs kimenetének másolása	Copy Last Command's Output	Ausgabe des letzten Befehls kopieren
+Utolsó parancs kimenetének kijelölése	Select Last Command's Output	Ausgabe des letzten Befehls auswählen
+Utolsó parancs szövegének másolása	Copy Last Command's Text	Text des letzten Befehls kopieren
+Run book: az utolsó 10 parancs-blokk mentése HTML-be (asztalra)	Run book: save the last 10 command blocks to HTML (on the desktop)	Runbook: die letzten 10 Befehlsblöcke als HTML speichern (auf dem Desktop)
+Mentve: 	Saved: 	Gespeichert: 
+Nem sikerült: 	Failed: 	Fehlgeschlagen: 
+Figyelő-blokk: az utolsó parancs újrafut, ha a mappában fájl változik	Watch block: the last command reruns when a file in the folder changes	Überwachungsblock: Der letzte Befehl wird erneut ausgeführt, wenn sich eine Datei im Ordner ändert
+👁 Figyelés BE: 	👁 Watching ON: 	👁 Überwachung EIN: 
+Figyelés KI	Watching OFF	Überwachung AUS
+Teljes kimenet mentése szövegként…	Save Entire Output as Text…	Gesamte Ausgabe als Text speichern…
+Teljes kimenet mentése HTML-ként (színekkel)…	Save Entire Output as HTML (with colors)…	Gesamte Ausgabe als HTML speichern (mit Farben)…
+Látható képernyő mentése szövegként…	Save Visible Screen as Text…	Sichtbaren Bildschirm als Text speichern…
+Képernyőkép a terminálról (PNG az asztalra)	Terminal Screenshot (PNG to desktop)	Screenshot des Terminals (PNG auf den Desktop)
+Képernyőkép vágólapra	Screenshot to Clipboard	Screenshot in die Zwischenablage
+Kép a vágólapon	Image on clipboard	Bild in der Zwischenablage
+Munkamenet-napló rögzítése (nyers kimenet fájlba)	Record Session Log (raw output to file)	Sitzungsprotokoll aufzeichnen (Rohausgabe in Datei)
+Napló leállítva	Log stopped	Protokoll beendet
+Napló: 	Log: 	Protokoll: 
+Naplók mappája	Logs Folder	Protokollordner
+Képernyő törlése	Clear Screen	Bildschirm löschen
+Görgetősáv törlése	Clear Scrollback	Scrollback löschen
+Minden törlése (képernyő + görgetősáv)	Clear All (screen + scrollback)	Alles löschen (Bildschirm + Scrollback)
+Terminál alaphelyzetbe (reset)	Reset Terminal	Terminal zurücksetzen
+Ctrl+C küldése (megszakítás)	Send Ctrl+C (interrupt)	Ctrl+C senden (Unterbrechen)
+Ctrl+D küldése (EOF)	Send Ctrl+D (EOF)	Ctrl+D senden (EOF)
+Ctrl+Z küldése	Send Ctrl+Z	Ctrl+Z senden
+Esc küldése	Send Esc	Esc senden
+Shell újraindítása ebben a panelben	Restart Shell in This Pane	Shell in diesem Bereich neu starten
+Rendszergazdai PowerShell megnyitása (UAC)	Open Administrator PowerShell (UAC)	PowerShell als Administrator öffnen (UAC)
+Munkamappa megnyitása az Intézőben	Open Working Directory in Explorer	Arbeitsverzeichnis im Explorer öffnen
+Munkamappa megnyitása szerkesztőben (VS Code / Antigravity)	Open Working Directory in Editor (VS Code / Antigravity)	Arbeitsverzeichnis im Editor öffnen (VS Code / Antigravity)
+Nem található VS Code / Antigravity a PATH-on	VS Code / Antigravity not found on PATH	VS Code / Antigravity wurde im PATH nicht gefunden
+Előnézet	Preview	Vorschau
+Előnézet megnyitása alul… (localhost cím / port)	Open Preview at Bottom… (localhost address / port)	Vorschau unten öffnen… (localhost-Adresse / Port)
+Előnézet: utolsó észlelt dev-szerver cím	Preview: last detected dev server address	Vorschau: zuletzt erkannte Dev-Server-Adresse
+Előnézet bezárása	Close Preview	Vorschau schließen
+Előnézet újratöltése	Reload Preview	Vorschau neu laden
+Előnézet: teljes szélesség	Preview: Full Width	Vorschau: volle Breite
+Előnézet: tablet (820 px)	Preview: Tablet (820 px)	Vorschau: Tablet (820 px)
+Előnézet: telefon (390 px)	Preview: Phone (390 px)	Vorschau: Smartphone (390 px)
+Előnézet: fejlesztői eszközök (DevTools)	Preview: Developer Tools (DevTools)	Vorschau: Entwicklertools (DevTools)
+Előnézet megnyitása a böngészőben	Open Preview in Browser	Vorschau im Browser öffnen
+Beállítások fájl (term.ini)	Settings File (term.ini)	Einstellungsdatei (term.ini)
+Gyorsbillentyű-felülírások (keys.ini)	Shortcut Overrides (keys.ini)	Tastenkombinationen überschreiben (keys.ini)
+PowerShell-integráció (lumen-profile.ps1)	PowerShell Integration (lumen-profile.ps1)	PowerShell-Integration (lumen-profile.ps1)
+Saját PowerShell-kiegészítések (lumen-user.ps1)	Custom PowerShell Extensions (lumen-user.ps1)	Eigene PowerShell-Erweiterungen (lumen-user.ps1)
+Snippet-fájl (snippets.txt)	Snippet File (snippets.txt)	Snippet-Datei (snippets.txt)
+PSReadLine előzmény-fájl	PSReadLine History File	PSReadLine-Verlaufsdatei
+A Terminal mappája	Terminal Folder	Terminal-Ordner
+Kijelölés automatikus másolása	Copy Selection Automatically	Auswahl automatisch kopieren
+Középső gomb = beillesztés	Middle Button = Paste	Mittlere Taste = Einfügen
+Többsoros beillesztés jóváhagyása	Confirm Multi-Line Paste	Mehrzeiliges Einfügen bestätigen
+Okos beillesztés (idézőjelek, kötőjelek javítása)	Smart Paste (fix quotes and dashes)	Intelligentes Einfügen (Anführungszeichen und Bindestriche korrigieren)
+Linkek megnyitása csak Ctrl+kattintással	Open Links Only with Ctrl+Click	Links nur mit Ctrl+Klick öffnen
+Értesítés hosszú parancs végén	Notify When Long Command Finishes	Benachrichtigung bei Ende eines langen Befehls
+Vizuális csengő (villanás)	Visual Bell (flash)	Visueller Signalton (Blinken)
+Hangos csengő	Audible Bell	Akustischer Signalton
+Görgetés a végére új kimenetnél	Scroll to Bottom on New Output	Bei neuer Ausgabe zum Ende scrollen
+Görgetés a végére gépeléskor	Scroll to Bottom on Typing	Beim Tippen zum Ende scrollen
+Lapok visszaállítása induláskor	Restore Tabs on Startup	Registerkarten beim Start wiederherstellen
+Lap bezárásának megerősítése, ha fut benne valami	Confirm Closing a Tab with Running Processes	Schließen einer Registerkarte bestätigen, wenn darin etwas läuft
+Görgetősáv hossza: 	Scrollback length: 	Scrollback-Länge: 
+ sor	 lines	 Zeilen
+Görgetési sebesség növelése	Increase Scroll Speed	Scrollgeschwindigkeit erhöhen
+Görgetési sebesség csökkentése	Decrease Scroll Speed	Scrollgeschwindigkeit verringern
+Értesítési küszöb: +5 mp	Notification Threshold: +5 s	Benachrichtigungsschwelle: +5 s
+Értesítés 	Notify over 	Benachrichtigen ab 
+ mp felett	 s	 s
+Ablak minimalizálása	Minimize Window	Fenster minimieren
+Ablak bezárása	Close Window	Fenster schließen
+Lenyíló (quake) mód váltása	Toggle Drop-Down (Quake) Mode	Dropdown-Modus (Quake) umschalten
+Gyorsbillentyűk és funkciók listája	Shortcuts and Features List	Liste der Tastenkombinationen und Funktionen
+PowerShell segédparancsok (lumen help)	PowerShell Helper Commands (lumen help)	PowerShell-Hilfsbefehle (lumen help)
+Parancspaletta	Command Palette	Befehlspalette
+Hiányoznak a WebView2 DLL-ek (terminal\\webview2 mappa).	WebView2 DLLs are missing (terminal\\webview2 folder).	WebView2-DLLs fehlen (Ordner terminal\\webview2).
+Nincs telepítve a Microsoft Edge WebView2 Runtime.	Microsoft Edge WebView2 Runtime is not installed.	Die Microsoft Edge WebView2 Runtime ist nicht installiert.
+A WebView2 nem tölthető be: 	WebView2 could not be loaded: 	WebView2 konnte nicht geladen werden: 
+Vissza	Back	Zurück
+Előre	Forward	Vorwärts
+Újratöltés (F5)	Reload (F5)	Neu laden (F5)
+Teljes szélesség	Full Width	Volle Breite
+Fejlesztői eszközök (F12)	Developer Tools (F12)	Entwicklertools (F12)
+Megnyitás a böngészőben	Open in Browser	Im Browser öffnen
+\nNyisd meg a böngészőben a ↗ gombbal.	\nOpen it in the browser with the ↗ button.	\nÖffne es im Browser mit der Schaltfläche ↗.
+Az előnézet nem indítható: 	The preview could not be started: 	Die Vorschau konnte nicht gestartet werden: 
+még tölt…	still loading…	lädt noch…
+Nem sikerült elindítani a shellt: 	Failed to start the shell: 	Die Shell konnte nicht gestartet werden: 
+✗ kilépési kód 	✗ exit code 	✗ Exitcode 
+ ó 	 h 	 Std. 
+Veszélyesnek tűnő parancs beillesztése	Pasting a Potentially Dangerous Command	Möglicherweise gefährlichen Befehl einfügen
+Többsoros beillesztés	Multi-Line Paste	Mehrzeiliges Einfügen
+A beillesztendő szöveg veszélyes parancsot tartalmazhat.\n\n	The text you are pasting may contain a dangerous command.\n\n	Der einzufügende Text enthält möglicherweise einen gefährlichen Befehl.\n\n
+ sor kerül beillesztésre, és mindegyik lefuthat.\n\n	 lines will be pasted, and each of them may run.\n\n	 Zeilen werden eingefügt, und jede davon kann ausgeführt werden.\n\n
+Hiba: 	Error: 	Fehler: 
+Másolva	Copied	Kopiert
+A vágólap épp foglalt, próbáld újra	The clipboard is busy, try again	Die Zwischenablage ist gerade belegt, versuche es erneut
+A terminál nem érhető el	The terminal is not available	Das Terminal ist nicht verfügbar
+git nincs telepítve	git is not installed	git ist nicht installiert
+🧰 Eszközök	🧰 Tools	🧰 Tools
+📁 Projektek	📁 Projects	📁 Projekte
+✨ Új projekt	✨ New Project	✨ Neues Projekt
+🔌 Portok	🔌 Ports	🔌 Ports
+🌐 Környezet	🌐 Environment	🌐 Umgebung
+⚡ Gyors	⚡ Quick	⚡ Schnell
+🧹 Takarítás	🧹 Cleanup	🧹 Bereinigung
+A lap nem tölthető be: 	The tab could not be loaded: 	Die Registerkarte konnte nicht geladen werden: 
+Nyelvek és futtatók	Languages and Runtimes	Sprachen und Laufzeiten
+Csomagkezelők	Package Managers	Paketmanager
+Fejlesztői eszközök	Developer Tools	Entwicklertools
+Alkalmazások	Applications	Anwendungen
+telepítve	installed	installiert
+Szűrés…	Filter…	Filtern…
+↻ Újraellenőrzés	↻ Recheck	↻ Erneut prüfen
+⬆ Frissítések keresése	⬆ Check for Updates	⬆ Nach Updates suchen
+⬇ Kijelöltek telepítése	⬇ Install Selected	⬇ Ausgewählte installieren
+⟳ Minden frissítése	⟳ Update All	⟳ Alle aktualisieren
+Kijelölés csoportos telepítéshez	Select for batch install	Für Sammelinstallation auswählen
+… ellenőrzés	… checking	… Prüfung läuft
+Telepítés	Install	Installieren
+Eltávolít	Uninstall	Deinstallieren
+Frissítés (winget upgrade)	Update (winget upgrade)	Aktualisieren (winget upgrade)
+Telepítés (winget install)	Install (winget install)	Installieren (winget install)
+Eltávolítás…	Uninstall…	Deinstallieren…
+Csomag-azonosító másolása	Copy Package ID	Paket-ID kopieren
+Telepítő parancs másolása	Copy Install Command	Installationsbefehl kopieren
+Parancs másolva	Command copied	Befehl kopiert
+Letöltés a gyártó oldaláról (ha a winget nem megy)	Download from the vendor's site (if winget doesn't work)	Von der Herstellerseite herunterladen (falls winget nicht funktioniert)
+Újraellenőrzés	Recheck	Erneut prüfen
+Eltávolítás	Uninstall	Deinstallieren
+ eltávolítása a gépről (winget uninstall)?	 will be removed from this computer (winget uninstall). Continue?	 wird von diesem Computer entfernt (winget uninstall). Fortfahren?
+Eltávolítás: 	Uninstalling: 	Deinstallation: 
+Frissítés: 	Updating: 	Aktualisierung: 
+Telepítés: 	Installing: 	Installation: 
+A winget nem található – telepítsd az „App Installer” alkalmazást a Microsoft Store-ból	winget not found – install the "App Installer" app from the Microsoft Store	winget wurde nicht gefunden – installiere die App „App-Installer“ aus dem Microsoft Store
+A winget forrás nem érhető el	The winget source is unreachable	Die winget-Quelle ist nicht erreichbar
+A cdn.winget.microsoft.com nem válaszol (hálózat / tűzfal / VPN?), ezért a winget most nem tud telepíteni.	cdn.winget.microsoft.com is not responding (network / firewall / VPN?), so winget can't install anything right now.	cdn.winget.microsoft.com antwortet nicht (Netzwerk / Firewall / VPN?), daher kann winget derzeit nichts installieren.
+\n\nMegnyissam a gyártó letöltő oldalát?	\n\nOpen the vendor's download page?	\n\nSoll die Download-Seite des Herstellers geöffnet werden?
+Letöltő oldal	Download Page	Download-Seite
+Értem	Got it	Verstanden
+Jelölj ki legalább egy eszközt a bal oldali pipával	Select at least one tool with the checkbox on the left	Wähle mindestens ein Tool mit dem Kontrollkästchen links aus
+A winget nem található	winget not found	winget wurde nicht gefunden
+Telepítés (	Installing (	Installation (
+Minden frissítése	Update All	Alle aktualisieren
+A winget minden frissíthető programot frissít a gépen (nem csak a fejlesztői eszközöket). Folytatod?	winget updates every updatable program on this computer (not just developer tools). Continue?	winget aktualisiert alle aktualisierbaren Programme auf diesem Computer (nicht nur Entwicklertools). Fortfahren?
+Frissít	Update	Aktualisieren
+Frissítés	Updates	Updates
+✗ nincs telepítve	✗ not installed	✗ nicht installiert
+ telepítve	 installed	 installiert
+ frissítés elérhető	 update available	 Update verfügbar
+ kész: 	 done: 	 fertig: 
+ eltávolítva	 removed	 entfernt
+Frissítések keresése… (néhány másodperc)	Checking for updates… (a few seconds)	Suche nach Updates… (einige Sekunden)
+A winget nem válaszolt (a forrás – cdn.winget.microsoft.com – nem érhető el: hálózat / tűzfal / VPN?)	winget did not respond (the source – cdn.winget.microsoft.com – is unreachable: network / firewall / VPN?)	winget hat nicht geantwortet (die Quelle – cdn.winget.microsoft.com – ist nicht erreichbar: Netzwerk / Firewall / VPN?)
+Minden naprakész (vagy a winget nem adott listát)	Everything is up to date (or winget returned no list)	Alles ist aktuell (oder winget hat keine Liste geliefert)
+ program frissíthető	 programs can be updated	 Programme können aktualisiert werden
+🔎 Keresés	🔎 Search	🔎 Suchen
+📋 Telepítettek listája	📋 Installed programs	📋 Installierte Programme
+Írj be egy nevet: a winget több tízezer csomagja közül kereshetsz, és egy kattintással telepítheted őket.	Enter a name: you can search tens of thousands of winget packages and install them with one click.	Gib einen Namen ein: Du kannst unter mehreren Zehntausend winget-Paketen suchen und sie mit einem Klick installieren.
+keresés…	search…	suchen…
+A winget nem válaszolt – a csomagforrás (cdn.winget.microsoft.com) nem érhető el. Ellenőrizd a hálózatot / tűzfalat / VPN-t, vagy használd az Eszközök fül „Letöltés a gyártó oldaláról” menüpontját (jobb klikk egy soron).	winget did not respond – the package source (cdn.winget.microsoft.com) is unreachable. Check your network / firewall / VPN, or use the “Download from the vendor's site” item in the Tools tab (right-click a row).	winget hat nicht geantwortet – die Paketquelle (cdn.winget.microsoft.com) ist nicht erreichbar. Prüfe Netzwerk / Firewall / VPN oder verwende auf der Registerkarte „Tools“ den Menüpunkt „Von der Herstellerseite herunterladen“ (Rechtsklick auf eine Zeile).
+ találat	 results	 Treffer
+Nincs találat.	No results.	Keine Treffer.
+Adatok	Details	Details
+ID másolása	Copy ID	ID kopieren
+Szűrés (port / program)	Filter (port / program)	Filtern (Port / Programm)
+Csak fejlesztői	Developer only	Nur Entwickler
+Előnézet a terminál alatt – cím vagy port	Preview below the terminal – address or port	Vorschau unter dem Terminal – Adresse oder Port
+Megnyit	Open	Öffnen
+⛔ Port felszabadítása	⛔ Free port	⛔ Port freigeben
+Írj be egy port-számot	Enter a port number	Portnummer eingeben
+ port szabad	 port is free	 Port ist frei
+ port	 port	 Port
+ összesen)	 total)	 insgesamt)
+ · 3 mp-enként frissül	 · refreshes every 3 s	 · Aktualisierung alle 3 s
+Most nem fut fejlesztői szerver. Indíts egyet (pl. egy projekt „dev” gombjával), és itt megjelenik.	No developer server is running right now. Start one (e.g. with a project's “dev” button) and it will show up here.	Derzeit läuft kein Entwicklerserver. Starte einen (z. B. mit der Schaltfläche „dev“ eines Projekts), dann erscheint er hier.
+🌐 Megnyitás	🌐 Open	🌐 Öffnen
+📺 Terminal preview	📺 Terminal preview	📺 Terminal preview
+📋 URL	📋 URL	📋 URL
+⛔ Leállít	⛔ Stop	⛔ Beenden
+Folyamat leállítása	Stop process	Prozess beenden
+Leállít	Stop	Beenden
+Ezt a folyamatot nem állítom le	I won't stop this process	Diesen Prozess beende ich nicht
+A PID közben másik folyamaté lett – frissítem a listát	The PID now belongs to another process – refreshing the list	Die PID gehört inzwischen zu einem anderen Prozess – Liste wird aktualisiert
+✓ Leállítva: 	✓ Stopped: 	✓ Beendet: 
+A felhasználói környezet nem írható	The user environment is not writable	Die Benutzerumgebung ist nicht beschreibbar
+A PATH nem menthető: 	PATH cannot be saved: 	PATH kann nicht gespeichert werden: 
+PATH mentve (biztonsági mentés: devhub mappa). Az új terminálok már ezt látják.	PATH saved (backup: devhub folder). New terminals will see it now.	PATH gespeichert (Sicherung: devhub-Ordner). Neue Terminals übernehmen es bereits.
+Git és SSH	Git and SSH	Git und SSH
+név: …	name: …	Name: …
+✎ Név…	✎ Name…	✎ Name…
+Mentés	Save	Speichern
+Alap ág: main	Default branch: main	Standardbranch: main
+Hitelesítő: manager	Credential helper: manager	Credential-Helper: manager
+📜 Minden git-beállítás	📜 All git settings	📜 Alle git-Einstellungen
+🔑 SSH-kulcs készítése…	🔑 Create SSH key…	🔑 SSH-Schlüssel erstellen…
+Készít	Create	Erstellen
+📋 Nyilvános kulcs másolása	📋 Copy public key	📋 Öffentlichen Schlüssel kopieren
+Nyilvános SSH-kulcs másolva	Public SSH key copied	Öffentlicher SSH-Schlüssel kopiert
+Még nincs id_ed25519.pub – készíts kulcsot	No id_ed25519.pub yet – create a key	Noch keine id_ed25519.pub – erstelle einen Schlüssel
+PATH (felhasználói) – adminisztrátori jog nélkül szerkeszthető	PATH (user) – editable without administrator rights	PATH (Benutzer) – ohne Administratorrechte bearbeitbar
++ Mappa hozzáadása	+ Add folder	+ Ordner hinzufügen
+Melyik mappa kerüljön a PATH-ba?	Which folder should be added to PATH?	Welcher Ordner soll zu PATH hinzugefügt werden?
+Már szerepel a PATH-ban	Already in PATH	Bereits in PATH vorhanden
+🧹 Hibás és duplikált elemek törlése	🧹 Delete broken and duplicate entries	🧹 Fehlerhafte und doppelte Einträge löschen
+Nincs mit törölni – a PATH rendben van	Nothing to delete – PATH is fine	Nichts zu löschen – PATH ist in Ordnung
+📂 Biztonsági mentések	📂 Backups	📂 Sicherungen
+Felhasználói környezeti változók	User environment variables	Benutzerumgebungsvariablen
++ Új változó…	+ New variable…	+ Neue Variable…
+Változó neve (pl. OPENAI_API_KEY)	Variable name (e.g. OPENAI_API_KEY)	Variablenname (z. B. OPENAI_API_KEY)
+Tovább	Next	Weiter
+Érvénytelen név	Invalid name	Ungültiger Name
+Ez a név védett	This name is protected	Dieser Name ist geschützt
+Érték: 	Value: 	Wert: 
+Üres érték nem menthető	An empty value cannot be saved	Ein leerer Wert kann nicht gespeichert werden
+ mentve – új terminálban látszik	 saved – visible in a new terminal	 gespeichert – in einem neuen Terminal sichtbar
+🧾 hosts fájl (admin)	🧾 hosts file (admin)	🧾 hosts-Datei (Admin)
+A git nincs telepítve	git is not installed	git ist nicht installiert
+A beállítás nem sikerült	The setting failed	Die Einstellung ist fehlgeschlagen
+Duplikált elem	Duplicate entry	Doppelter Eintrag
+A mappa nem létezik	The folder does not exist	Der Ordner existiert nicht
+A felhasználói PATH üres.	The user PATH is empty.	Der Benutzer-PATH ist leer.
+ hibás	 broken	 fehlerhaft
+ · mind létezik	 · all exist	 · alle vorhanden
+Rendszer PATH (csak olvasható)	System PATH (read-only)	System-PATH (schreibgeschützt)
+Érzékeny érték elrejtve	Sensitive value hidden	Vertraulicher Wert ausgeblendet
+Új érték: 	New value: 	Neuer Wert: 
+Üres érték nem menthető (törléshez használd az ✕-et)	An empty value cannot be saved (use ✕ to delete)	Ein leerer Wert kann nicht gespeichert werden (zum Löschen ✕ verwenden)
+ frissítve	 updated	 aktualisiert
+ értéke másolva	 value copied	 – Wert kopiert
+Változó törlése	Delete variable	Variable löschen
+ törlése a felhasználói környezetből?	 – delete from the user environment?	 – aus der Benutzerumgebung löschen?
+Töröl	Delete	Löschen
+Nincs saját környezeti változó.	No custom environment variables.	Keine eigenen Umgebungsvariablen.
+✓ van	✓ present	✓ vorhanden
+✗ még nincs (készíts egyet a GitHubhoz)	✗ not yet (create one for GitHub)	✗ noch nicht vorhanden (für GitHub erstellen)
+név: 	name: 	Name: 
+— nincs beállítva	— not set	— nicht festgelegt
+A git nincs telepítve (Eszközök → Git)	git is not installed (Tools → Git)	git ist nicht installiert (Tools → Git)
+Bemenet	Input	Eingabe
+📋 Beillesztés	📋 Paste	📋 Einfügen
+📂 Fájl betöltése…	📂 Load file…	📂 Datei laden…
+A fájl túl nagy (max 4 MB)	The file is too large (max 4 MB)	Die Datei ist zu groß (max. 4 MB)
+✕ Törlés	✕ Clear	✕ Löschen
+Eredmény automatikus másolása	Auto-copy result	Ergebnis automatisch kopieren
+Illesztések a bemeneten	Matches in the input	Treffer in der Eingabe
+Eredmény	Result	Ergebnis
+📋 Másolás	📋 Copy	📋 Kopieren
+Eredmény másolva	Result copied	Ergebnis kopiert
+ – eredmény a vágólapon	 – result is on the clipboard	 – Ergebnis befindet sich in der Zwischenablage
+ő	ő	ő
+ű	ű	ű
+Ő	Ő	Ő
+Ű	Ű	Ű
+Írj be egy reguláris kifejezést fent.	Enter a regular expression above.	Gib oben einen regulären Ausdruck ein.
+ illesztés	 match	 Treffer
+    csoport 	    group 	    Gruppe 
+Szöveg	Text	Text
+Kódolás	Encoding	Kodierung
+Generátorok	Generators	Generatoren
+Idő és számok	Time and numbers	Zeit und Zahlen
+kisbetű	lowercase	Kleinbuchstaben
+NAGYBETŰ	UPPERCASE	GROSSBUCHSTABEN
+Sorok rendezése	Sort lines	Zeilen sortieren
+Duplikátumok törlése	Remove duplicates	Duplikate entfernen
+Sorok fordítva	Reverse lines	Zeilen umkehren
+Sorszámozás	Number lines	Zeilen nummerieren
+Üres sorok és szóközök törlése	Remove empty lines and spaces	Leerzeilen und Leerzeichen entfernen
+Szám: karakter / szó / sor	Count: characters / words / lines	Anzahl: Zeichen / Wörter / Zeilen
+ szó · 	 words · 	 Wörter · 
+ sor · 	 lines · 	 Zeilen · 
+ bájt	 bytes	 Bytes
+Base64 ▸ kódol	Base64 ▸ encode	Base64 ▸ kodieren
+Base64 ◂ dekódol	Base64 ◂ decode	Base64 ◂ dekodieren
+URL ▸ kódol	URL ▸ encode	URL ▸ kodieren
+URL ◂ dekódol	URL ◂ decode	URL ◂ dekodieren
+HTML ▸ kódol	HTML ▸ encode	HTML ▸ kodieren
+HTML ◂ dekódol	HTML ◂ decode	HTML ◂ dekodieren
+Hex ▸ szövegből	Hex ▸ from text	Hex ▸ aus Text
+Hex ◂ szövegbe	Hex ◂ to text	Hex ◂ in Text
+JWT dekódolás	JWT decode	JWT dekodieren
+Ez nem JWT (fejléc.tartalom.aláírás)	This is not a JWT (header.payload.signature)	Das ist kein JWT (Header.Payload.Signatur)
+\n\nLejár: 	\n\nExpires: 	\n\nLäuft ab: 
+  (LEJÁRT)	  (EXPIRED)	  (ABGELAUFEN)
+// fejléc\n	// header\n	// Header\n
+JSON szépítés	JSON prettify	JSON formatieren
+JSON tömörítés	JSON minify	JSON komprimieren
+JSON érvényes?	Is JSON valid?	Ist das JSON gültig?
+✓ Érvényes JSON	✓ Valid JSON	✓ Gültiges JSON
+Fájl SHA-256…	File SHA-256…	Datei-SHA-256…
+Jelszó (20)	Password (20)	Passwort (20)
+Erős jelszó (32, jelekkel)	Strong password (32, with symbols)	Starkes Passwort (32, mit Sonderzeichen)
+Véletlen hex (32)	Random hex (32)	Zufälliges Hex (32)
+Véletlen szám 1–100	Random number 1–100	Zufallszahl 1–100
+Epoch → dátum	Epoch → date	Epoch → Datum
+Dátum → epoch	Date → epoch	Datum → Epoch
+Szám → hex / bin / okt	Number → hex / bin / oct	Zahl → Hex / Bin / Okt
+Hex → decimális	Hex → decimal	Hex → Dezimal
+HEX szín → RGB	HEX color → RGB	HEX-Farbe → RGB
+RGB → HEX szín	RGB → HEX color	RGB → HEX-Farbe
+Három szám kell (r g b)	Three numbers needed (r g b)	Drei Zahlen erforderlich (r g b)
+Váratlan karakter a(z) 	Unexpected character at position 	Unerwartetes Zeichen an Position 
+. pozíción: '	: '	: '
+Túl mély egymásba ágyazás	Nesting too deep	Verschachtelung zu tief
+Váratlan vég	Unexpected end	Unerwartetes Ende
+Kulcs (idézőjeles szöveg) kellene a(z) 	Key (quoted string) expected at position 	Schlüssel (Zeichenfolge in Anführungszeichen) erwartet an Position 
+. pozíción	.	.
+Hiányzó ':' a(z) 	Missing ':' at position 	Fehlendes ':' an Position 
+Lezáratlan 	Unterminated 	Nicht abgeschlossen: 
+Érvénytelen érték a(z) 	Invalid value at position 	Ungültiger Wert an Position 
+Lezáratlan szöveg a(z) 	Unterminated string from position 	Nicht abgeschlossene Zeichenfolge ab Position 
+. pozíciótól	.	.
+letöltött csomagok	downloaded packages	heruntergeladene Pakete
+közös csomagtár (újra letöltődik)	shared package store (re-downloaded)	gemeinsamer Paketspeicher (wird erneut heruntergeladen)
+.NET – újra letöltődik	.NET – re-downloaded	.NET – wird erneut heruntergeladen
+VS Code gyorsítótár	VS Code cache	VS Code-Cache
+Ideiglenes fájlok (Temp)	Temporary files (Temp)	Temporäre Dateien (Temp)
+használatban lévők kimaradnak	files in use are skipped	Dateien in Verwendung werden übersprungen
+↻ Méretek újramérése	↻ Re-measure sizes	↻ Größen neu ermitteln
+🗑 Minden gyorsítótár törlése	🗑 Delete all caches	🗑 Alle Caches löschen
+Minden gyorsítótár törlése	Delete all caches	Alle Caches löschen
+ szabadul fel. A csomagok szükség esetén újra letöltődnek (lassabb első telepítés).	 will be freed. Packages are re-downloaded when needed (slower first install).	 werden freigegeben. Pakete werden bei Bedarf erneut heruntergeladen (langsamere erste Installation).
+Docker takarítás	Docker cleanup	Docker-Bereinigung
+Törli a leállított konténereket, a nem használt hálózatokat és a címke nélküli képeket.	Removes stopped containers, unused networks and untagged images.	Entfernt beendete Container, nicht verwendete Netzwerke und Images ohne Tag.
+Futtat	Run	Ausführen
+Gyorsítótárak	Caches	Caches
+A mappa nem létezik (még üres)	The folder does not exist (still empty)	Der Ordner existiert nicht (noch leer)
+🗑 Törlés	🗑 Delete	🗑 Löschen
+Törlés: 	Delete: 	Löschen: 
+ tartalma törlődik (	 contents will be deleted (	 – Inhalt wird gelöscht (
+Projektek – node_modules és build-mappák	Projects – node_modules and build folders	Projekte – node_modules- und Build-Ordner
+ szabad: 	 free: 	 frei: 
+Összesen kb. 	Total approx. 	Insgesamt ca. 
+ törölhető gyorsítótár	 deletable cache	 löschbarer Cache
+ felszabadítva	 freed	 freigegeben
+Nincs projekt a listában (Projektek fül → Keresés a gépen).	No projects in the list (Projects tab → Scan this PC).	Keine Projekte in der Liste (Registerkarte „Projekte“ → Auf diesem PC suchen).
+\n\nA mappa véglegesen törlődik.	\n\nThe folder will be permanently deleted.	\n\nDer Ordner wird endgültig gelöscht.
+Törlés…	Deleting…	Löschen…
+✓ Törölve	✓ Deleted	✓ Gelöscht
+Nem sikerült teljesen	Not completed fully	Nicht vollständig abgeschlossen
+A projektekben nincs törölhető build- vagy függőség-mappa.	The projects contain no deletable build or dependency folders.	In den Projekten gibt es keine löschbaren Build- oder Abhängigkeitsordner.
+↻ Frissítés	↻ Refresh	↻ Aktualisieren
+🧹 prune (leállítottak törlése)	🧹 prune (remove stopped)	🧹 prune (Beendete entfernen)
+Törli a leállított konténereket, nem használt hálózatokat és címke nélküli képeket.	Removes stopped containers, unused networks and untagged images.	Entfernt beendete Container, nicht verwendete Netzwerke und Images ohne Tag.
+📊 Lemezhasználat	📊 Disk usage	📊 Datenträgernutzung
+⬇ Docker Desktop telepítése	⬇ Install Docker Desktop	⬇ Docker Desktop installieren
+Telepítés: Docker Desktop	Install: Docker Desktop	Installieren: Docker Desktop
+▶ Docker Desktop indítása	▶ Start Docker Desktop	▶ Docker Desktop starten
+Docker Desktop indul… pár perc múlva frissíts	Docker Desktop is starting… refresh in a few minutes	Docker Desktop startet… in ein paar Minuten aktualisieren
+A Docker Desktop nem található	Docker Desktop not found	Docker Desktop wurde nicht gefunden
+A Docker nincs telepítve.	Docker is not installed.	Docker ist nicht installiert.
+betöltés…	loading…	wird geladen…
+A Docker most nem érhető el – valószínűleg nem fut a Docker Desktop.\n\n	Docker is not reachable right now – Docker Desktop is probably not running.\n\n	Docker ist derzeit nicht erreichbar – Docker Desktop läuft wahrscheinlich nicht.\n\n
+Konténerek	Containers	Container
+📜 Napló	📜 Log	📜 Protokoll
+Konténer törlése	Delete container	Container löschen
+ konténer törlése (docker rm -f)?	 – delete container (docker rm -f)?	 – Container löschen (docker rm -f)?
+Nincs konténer.	No containers.	Keine Container.
+ konténer	 containers	 Container
+Képek	Images	Images
+▶ Futtatás	▶ Run	▶ Ausführen
+Futtatás: 	Run: 	Ausführen: 
+Kép törlése	Delete image	Image löschen
+ törlése?	 – delete?	 – löschen?
+✓ Kész	✓ Done	✓ Fertig
+Projekt keresése…	Find project…	Projekt suchen…
++ Mappa	+ Folder	+ Ordner
+🔍 Keresés a gépen	🔍 Scan this PC	🔍 Auf diesem PC suchen
+↻ Állapotok	↻ Statuses	↻ Status
+Még nincs projekt a listában.\n\nA „🔍 Keresés a gépen” megkeresi a mappákat (git / Node / Python / .NET / Rust / Go…), vagy a „+ Mappa” gombbal te is felveheted őket.	No projects in the list yet.\n\nThe “🔍 Scan this PC” button finds folders (git / Node / Python / .NET / Rust / Go…), or you can add them yourself with the “+ Folder” button.	Noch keine Projekte in der Liste.\n\nMit „🔍 Auf diesem PC suchen“ werden Ordner gefunden (git / Node / Python / .NET / Rust / Go…), oder du fügst sie selbst mit „+ Ordner“ hinzu.
+Válaszd ki a projekt mappáját	Select the project folder	Wähle den Projektordner aus
+Projektek keresése…	Searching for projects…	Projekte werden gesucht…
+ új projekt a listában (	 new projects in the list (	 neue Projekte in der Liste (
+Megnyitás VS Code-ban	Open in VS Code	In VS Code öffnen
+A VS Code nem található	VS Code not found	VS Code wurde nicht gefunden
+Megnyitás Antigravityben	Open in Antigravity	In Antigravity öffnen
+Az Antigravity nem található	Antigravity not found	Antigravity wurde nicht gefunden
+Terminál itt	Terminal here	Terminal hier
+Megnyitás az Intézőben	Open in Explorer	Im Explorer öffnen
+Útvonal másolása	Copy path	Pfad kopieren
+Útvonal másolva	Path copied	Pfad kopiert
+Eltávolítás a listából	Remove from list	Aus der Liste entfernen
+Kattints: útvonal másolása	Click to copy path	Klicken, um den Pfad zu kopieren
+… betöltés	… loading	… wird geladen
+ módosított fájl	 modified file(s)	 geänderte Datei(en)
+   ✓ tiszta	   ✓ clean	   ✓ sauber
+ push-ra vár	 waiting to push	 warten auf Push
+ letöltendő	 to pull	 zum Abrufen
+A VS Code nem található (Eszközök → VS Code)	VS Code not found (Tools → VS Code)	VS Code wurde nicht gefunden (Extras → VS Code)
+⌨ Terminál itt	⌨ Terminal Here	⌨ Terminal hier
+📂 Intéző	📂 Explorer	📂 Explorer
+🐙 Repo a böngészőben	🐙 Repo in Browser	🐙 Repo im Browser
+📋 Útvonal	📋 Path	📋 Pfad
+🧪 venv létrehozása	🧪 Create venv	🧪 venv erstellen
+🧪 venv aktiválása	🧪 Activate venv	🧪 venv aktivieren
+Futtatás	Run	Ausführen
+Függőségek (	Dependencies (	Abhängigkeiten (
+📊 Elavult csomagok	📊 Outdated Packages	📊 Veraltete Pakete
+🛡 Biztonsági audit	🛡 Security Audit	🛡 Sicherheitsaudit
+📦 Csomag hozzáadása…	📦 Add Package…	📦 Paket hinzufügen…
+Hozzáad	Add	Hinzufügen
+📈 Napló	📈 Log	📈 Protokoll
+✔ Commit mindent…	✔ Commit All…	✔ Alles committen…
+Commit üzenet	Commit message	Commit-Nachricht
+🌱 Új ág…	🌱 New Branch…	🌱 Neuer Branch…
+Új ág neve	New branch name	Name des neuen Branches
+Létrehoz	Create	Erstellen
+ág: 	branch: 	Branch: 
+⎇ Ág váltása ▾	⎇ Switch Branch ▾	⎇ Branch wechseln ▾
+↩ Utolsó commit visszavonása	↩ Undo Last Commit	↩ Letzten Commit rückgängig machen
+Utolsó commit visszavonása	Undo last commit	Letzten Commit rückgängig machen
+A legutóbbi commit megszűnik, de a változtatások megmaradnak a munkamappában (git reset --soft HEAD~1).	The latest commit is removed, but the changes remain in the working folder (git reset --soft HEAD~1).	Der letzte Commit wird entfernt, die Änderungen bleiben jedoch im Arbeitsverzeichnis erhalten (git reset --soft HEAD~1).
+Visszavon	Undo	Rückgängig
+🧹 Nem követett fájlok törlése…	🧹 Delete Untracked Files…	🧹 Nicht verfolgte Dateien löschen…
+A nem követett (untracked) fájlok és mappák törlődnek (git clean -fd). Ezt nem lehet visszavonni.	Untracked files and folders will be deleted (git clean -fd). This cannot be undone.	Nicht verfolgte (untracked) Dateien und Ordner werden gelöscht (git clean -fd). Dies kann nicht rückgängig gemacht werden.
+git clean -fdn; Read-Host 'A fenti lista törlődik – Enter: törlés, Ctrl+C: mégse'; git clean -fd	git clean -fdn; Read-Host 'The list above will be deleted – Enter: delete, Ctrl+C: cancel'; git clean -fd	git clean -fdn; Read-Host 'Die obige Liste wird gelöscht – Enter: löschen, Strg+C: abbrechen'; git clean -fd
+Legutóbbi commitok	Recent commits	Letzte Commits
+Kattints: hash másolása	Click: copy hash	Klicken: Hash kopieren
+Hash másolva	Hash copied	Hash kopiert
+Tisztítás	Clean up	Bereinigen
+Nincs törölhető build-/függőség mappa.	No build/dependency folder to delete.	Kein Build-/Abhängigkeitsordner zum Löschen vorhanden.
+♻ Újratelepítés (node_modules törlése + install)	♻ Reinstall (delete node_modules + install)	♻ Neu installieren (node_modules löschen + install)
+Újratelepítés	Reinstall	Neu installieren
+A node_modules mappa törlődik, majd lefut a(z) 	The node_modules folder will be deleted, then this will run: 	Der Ordner node_modules wird gelöscht, danach wird ausgeführt: 
+Mehet	Go	Los
+újratelepítés	reinstall	Neuinstallation
+Nincs ág	No branch	Kein Branch
+\n\nA mappa véglegesen törlődik. 	\n\nThe folder will be permanently deleted. 	\n\nDer Ordner wird endgültig gelöscht. 
+Újra létrehozható (install / venv).	It can be recreated (install / venv).	Kann neu erstellt werden (install / venv).
+A build újra előállítható.	The build can be regenerated.	Der Build kann neu erzeugt werden.
+Törlés folyamatban: 	Deleting: 	Löschvorgang läuft: 
+✓ Törölve: 	✓ Deleted: 	✓ Gelöscht: 
+Nem sikerült teljesen törölni (használatban lévő fájl?)	Could not delete completely (file in use?)	Konnte nicht vollständig gelöscht werden (Datei in Verwendung?)
+kérdéseket tesz fel	asks questions	stellt Fragen
+Egyszerű weboldal	Simple website	Einfache Website
+.NET konzolalkalmazás	.NET console app	.NET-Konsolenanwendung
+Tallózás…	Browse…	Durchsuchen…
+Hová jöjjön létre a projekt?	Where should the project be created?	Wo soll das Projekt erstellt werden?
+Megnyitás VS Code-ban a végén	Open in VS Code when done	Am Ende in VS Code öffnen
+Sablon (kattints, majd „Létrehozás”)	Template (click, then “Create”)	Vorlage (anklicken, dann „Erstellen“)
+✨ Létrehozás	✨ Create	✨ Erstellen
+Válassz egy sablont	Choose a template	Vorlage auswählen
+A projekt neve: betűk, számok, - _ . (szóköz nélkül)	Project name: letters, numbers, - _ . (no spaces)	Projektname: Buchstaben, Zahlen, - _ . (ohne Leerzeichen)
+Add meg a célmappát	Enter the target folder	Zielordner angeben
+Érvénytelen útvonal: 	Invalid path: 	Ungültiger Pfad: 
+Ez a név Windowson nem használható	This name cannot be used on Windows	Dieser Name kann unter Windows nicht verwendet werden
+ már létezik és nem üres	 already exists and is not empty	 ist bereits vorhanden und nicht leer
+A célmappa nem hozható létre: 	The target folder cannot be created: 	Der Zielordner kann nicht erstellt werden: 
+</h1>\n    <p>Szia! Ez egy induló oldal.</p>\n    <button id="btn">Kattints</button>\n  </main>\n  <script src="script.js"></script>\n</body>\n</html>\n	</h1>\n    <p>Hello! This is a starter page.</p>\n    <button id="btn">Click me</button>\n  </main>\n  <script src="script.js"></script>\n</body>\n</html>\n	</h1>\n    <p>Hallo! Dies ist eine Startseite.</p>\n    <button id="btn">Klick mich</button>\n  </main>\n  <script src="script.js"></script>\n</body>\n</html>\n
+document.getElementById('btn').addEventListener('click', () => alert('Működik!'));\n	document.getElementById('btn').addEventListener('click', () => alert('It works!'));\n	document.getElementById('btn').addEventListener('click', () => alert('Es funktioniert!'));\n
+def main():\n    print('Szia, világ!')\n\n\nif __name__ == '__main__':\n    main()\n	def main():\n    print('Hello, world!')\n\n\nif __name__ == '__main__':\n    main()\n	def main():\n    print('Hallo, Welt!')\n\n\nif __name__ == '__main__':\n    main()\n
+ -m pip install -r requirements.txt; Write-Host ''; Write-Host 'Indítás: .\\.venv\\Scripts\\uvicorn main:app --reload' -ForegroundColor Cyan	 -m pip install -r requirements.txt; Write-Host ''; Write-Host 'Start: .\\.venv\\Scripts\\uvicorn main:app --reload' -ForegroundColor Cyan	 -m pip install -r requirements.txt; Write-Host ''; Write-Host 'Starten: .\\.venv\\Scripts\\uvicorn main:app --reload' -ForegroundColor Cyan
+package main\n\nimport "fmt"\n\nfunc main() {\n\tfmt.Println("Szia, világ!")\n}\n	package main\n\nimport "fmt"\n\nfunc main() {\n\tfmt.Println("Hello, world!")\n}\n	package main\n\nimport "fmt"\n\nfunc main() {\n\tfmt.Println("Hallo, Welt!")\n}\n
+A fájlok létrehozása nem sikerült: 	Failed to create the files: 	Die Dateien konnten nicht erstellt werden: 
+Új: 	New: 	Neu: 
+Projekt létrehozva: 	Project created: 	Projekt erstellt: 
+🔮 Előrejelzés: adatot gyűjtök…	🔮 Forecast: collecting data…	🔮 Prognose: Daten werden gesammelt…
+🔮 Előrejelzés: stabil	🔮 Forecast: stable	🔮 Prognose: stabil
+3+ óra	3+ hours	3+ Stunden
+ perc	 min	 Min.
+ múlva eléri a 95%-ot	 until it reaches 95%	 bis 95% erreicht sind
+🔮 A memóriahasználat csökken (	🔮 Memory usage is decreasing (	🔮 Die Speicherauslastung sinkt (
+🔮 A memóriahasználat stabil (	🔮 Memory usage is stable (	🔮 Die Speicherauslastung ist stabil (
+Folyamatos mérés 5 mp-enként, amíg a GlassControl nyitva van (percenként naplózva, 14 napra visszamenőleg). A Wise Memory Wiper és a Feladatkezelő adatai itt egyesülnek.	Continuous measurement every 5 s while GlassControl is open (logged every minute, going back 14 days). Data from Wise Memory Wiper and Task Manager is combined here.	Kontinuierliche Messung alle 5 Sek., solange GlassControl geöffnet ist (minütlich protokolliert, bis zu 14 Tage rückwirkend). Die Daten von Wise Memory Wiper und dem Task-Manager werden hier zusammengeführt.
+Memóriahasználat az időben	Memory usage over time	Speicherauslastung im Zeitverlauf
+Ki mennyit használ	Who uses how much	Wer wie viel verbraucht
+kattints egy sorra a magyarázatért	click a row for an explanation	Zeile anklicken für eine Erklärung
+Miért ennyi?	Why this much?	Warum so viel?
+Mikor terhelt a leginkább a gép? (napszak szerint, a naplóból)	When is the machine under the heaviest load? (by time of day, from the log)	Wann ist der Rechner am stärksten ausgelastet? (nach Tageszeit, aus dem Protokoll)
+Wise Memory Wiper napló	Wise Memory Wiper log	Wise Memory Wiper-Protokoll
+Tanult tudás (analytics/memory/memory.txt)	Learned knowledge (analytics/memory/memory.txt)	Gelerntes Wissen (analytics/memory/memory.txt)
+naponta egyszer minden txt-ből frissül	updated once a day from all txt files	wird einmal täglich aus allen txt-Dateien aktualisiert
+Rendezés	Sort	Sortierung
+Most használt	Current usage	Aktuelle Nutzung
+Átlag	Average	Durchschnitt
+Csúcs	Peak	Spitze
+Növekedés (trend)	Growth (trend)	Wachstum (Trend)
+Grafikon időtáv	Chart time range	Zeitraum des Diagramms
+10 perc	10 min	10 Min.
+1 óra	1 hour	1 Stunde
+Minden	All	Alle
+Tanulás most (minden txt beolvasása)	Learn now (read all txt files)	Jetzt lernen (alle txt-Dateien einlesen)
+Tanult tudás megnyitása (memory.txt)	Open learned knowledge (memory.txt)	Gelerntes Wissen öffnen (memory.txt)
+Analitika mappa megnyitása	Open analytics folder	Analyseordner öffnen
+Magyarázat megjelenítése	Show explanation	Erklärung anzeigen
+RAM ürítés (az összes "	Free RAM (all "	RAM freigeben (alle "
+Program leállítása (összes példány)	Stop program (all instances)	Programm beenden (alle Instanzen)
+Biztosan leállítod az összes "	Are you sure you want to stop all "	Möchten Sie wirklich alle "
+Útvonal megnyitása (Intéző)	Open path (Explorer)	Pfad öffnen (Explorer)
+Útvonal megnyitása	Open path	Pfad öffnen
+Összefoglaló másolása	Copy summary	Zusammenfassung kopieren
+, átlag 	, average 	, Durchschnitt 
+, csúcs 	, peak 	, Spitze 
+Még nincs lezárt 2 napos szakasz, ezért még nincs mit tanulni. Az első szakasz a mérés 3. napján zárul le; addig a percenkénti nyers napló (analytics/raw) gyűlik.	There is no completed 2-day period yet, so there is nothing to learn yet. The first period closes on day 3 of measurement; until then the per-minute raw log (analytics/raw) accumulates.	Es gibt noch keinen abgeschlossenen 2-Tage-Abschnitt, daher gibt es noch nichts zu lernen. Der erste Abschnitt endet am 3. Messtag; bis dahin sammelt sich das minütliche Rohprotokoll (analytics/raw).
+ · átlag 	 · avg 	 · Ø 
+% · csúcs 	% · peak 	% · Spitze 
+ ó	 h	 Std.
+: átlag 	: average 	: Durchschnitt 
+ indítás, átl. 	 launches, avg. 	 Starts, Ø 
+ perc · előtérben 	 min · in foreground 	 Min. · im Vordergrund 
+% · leggyakrabban aktív: 	% · most often active: 	% · am häufigsten aktiv: 
+ · seprés átl. 	 · sweep avg. 	 · Bereinigung Ø 
+Okos seprés szabályai: először ezeket üríti: 	Smart sweep rules: it frees these first: 	Regeln der intelligenten Bereinigung: Diese werden zuerst geleert: 
+ · kihagyja (kevés a nyereség): 	 · skips (little gain): 	 · überspringt (geringer Gewinn): 
+ · gyakran használt (óvatosan): 	 · frequently used (carefully): 	 · häufig genutzt (vorsichtig): 
+Most	Now	Jetzt
+ használatban, 	 in use, 	 in Verwendung, 
+ elérhető (	 available (	 verfügbar (
+Átlag (ez a munkamenet)	Average (this session)	Durchschnitt (diese Sitzung)
+hosszú távú átlag: 	long-term average: 	Langzeitdurchschnitt: 
+ekkor: 	at: 	um: 
+Mérés	Measurement	Messung
+ minta	 samples	 Messwerte
+fut: 	running: 	läuft: 
+ tisztítás	 cleanups	 Bereinigungen
+átlag 	avg 	Ø 
+még nem futott	has not run yet	noch nicht ausgeführt
+Gyűjtöm az adatokat…	Collecting data…	Daten werden gesammelt…
+Kék: használt memória % · zöld szaggatott: átlag · narancs függőleges: Wise Wiper tisztítás	Blue: memory used % · green dashed: average · orange vertical: Wise Wiper cleanup	Blau: belegter Speicher in % · grün gestrichelt: Durchschnitt · orange senkrecht: Wise-Wiper-Bereinigung
+Rendezés:	Sort:	Sortieren:
+Növekedés	Growth	Wachstum
+Program	Program	Programm
+Mikor	When	Wann
+Trend / óra	Trend / hour	Trend / Std.
+Még nincs adat.	No data yet.	Noch keine Daten.
+(nincs hozzáférés)	(no access)	(kein Zugriff)
+Mikor és mennyi: a mérés kezdete (	When and how much: since the start of measurement (	Wann und wie viel: seit Messbeginn (
+) óta 	), it has been running in 	) lief es in 
+ mintában futott; átlagosan 	 samples; on average it used 	 Messwerten; durchschnittlich belegte es 
+ RAM-ot használt, a csúcs 	 of RAM, and at peak it ran as 	 RAM, zur Spitze lief es in 
+ folyamatban futott. 	 processes. 	 Prozessen. 
+Ebből privát (csak az övé) most 	Of this, private (its own only) right now: 	Davon privat (nur eigener) aktuell: 
+Trend: 	Trend: 	Trend: 
+gyorsan nő (	growing fast (	wächst schnell (
+lassan nő (	growing slowly (	wächst langsam (
+csökken (	decreasing (	sinkt (
+ MB/óra). 	 MB/hour). 	 MB/Std.). 
+Ha tovább nő, memóriaszivárgás gyanús: érdemes újraindítani.	If it keeps growing, a memory leak is suspected: restarting is advisable.	Wenn es weiter wächst, besteht Verdacht auf ein Speicherleck: Ein Neustart ist ratsam.
+Hosszú távon (a naplóból) a nagy fogyasztók között átlag 	Long-term (from the log), among the big consumers it averages 	Langfristig (aus dem Protokoll) liegt es unter den großen Verbrauchern im Schnitt bei 
+Tipp: 	Tip: 	Tipp: 
+sok al-folyamata van (böngésző/Electron jellegű): a megnyitott ablakok, lapok vagy bővítmények száma határozza meg a fogyasztást.	it has many sub-processes (browser/Electron-like): the number of open windows, tabs or extensions determines consumption.	es hat viele Unterprozesse (browser-/Electron-artig): Die Anzahl der geöffneten Fenster, Tabs oder Erweiterungen bestimmt den Verbrauch.
+ha sokat használ és nem kell, a Feladatkezelő fülön leállíthatod, vagy a RAM ürítés gombbal tömörítheted a munkakészletét.	if it uses a lot and you do not need it, you can stop it in the Task Manager tab, or compress its working set with the Free RAM button.	wenn es viel verbraucht und Sie es nicht brauchen, können Sie es auf der Registerkarte „Task-Manager“ beenden oder seinen Arbeitssatz mit der Schaltfläche „RAM freigeben“ komprimieren.
+\n\nÚtvonal: 	\n\nPath: 	\n\nPfad: 
+telepített program (	installed program (	installiertes Programm (
+védett vagy rendszerfolyamat, a Windows a futtatásához szükséges (	protected or system process, required by Windows to run (	geschützter oder Systemprozess, den Windows zum Ausführen benötigt (
+A napszak-statisztikához legalább néhány percnyi napló kell (percenként mentődik).	The time-of-day statistics need at least a few minutes of log (saved every minute).	Für die Tageszeit-Statistik werden mindestens einige Minuten Protokoll benötigt (wird minütlich gespeichert).
+:00 – átlag 	:00 – average 	:00 – Durchschnitt 
+Legterheltebb időszak: 	Busiest period: 	Zeit mit der höchsten Auslastung: 
+:00 (átlag 	:00 (average 	:00 (Durchschnitt 
+ %). A kék oszlop a mostani óra.	 %). The blue bar is the current hour.	 %). Die blaue Säule ist die aktuelle Stunde.
+Még nem futott tisztítás. A Wise Memory Wiper fülön az „Optimalizálás” gombbal indíthatod; minden futás itt jelenik meg.	No cleanup has run yet. You can start one with the “Optimize” button on the Wise Memory Wiper tab; every run appears here.	Es wurde noch keine Bereinigung ausgeführt. Sie können eine auf der Registerkarte „Wise Memory Wiper“ mit der Schaltfläche „Optimieren“ starten; jeder Durchlauf wird hier angezeigt.
+ tisztítás, összesen 	 cleanups, total 	 Bereinigungen, insgesamt 
+ felszabadítva (átlag 	 freed (average 	 freigegeben (Durchschnitt 
+ folyamat   	 processes   	 Prozesse   
+ felszabadítva   elérhető: 	 freed   available: 	 freigegeben   verfügbar: 
+Brave böngésző	Brave browser	Brave-Browser
+böngésző: minden lap, bővítmény és háttérszolgáltatás külön folyamat, ezért sok db egyszerre.	browser: every tab, extension and background service is a separate process, hence many at once.	Browser: Jeder Tab, jede Erweiterung und jeder Hintergrunddienst ist ein eigener Prozess, daher laufen viele gleichzeitig.
+Kapcsold be a Memory Savert (brave://settings/system): az inaktív lapok alvó állapotba kerülnek, de nem vesznek el. A felesleges bővítményeket is kapcsold ki.	Turn on Memory Saver (brave://settings/system): inactive tabs go to sleep but are not lost. Also turn off unnecessary extensions.	Aktivieren Sie den Memory Saver (brave://settings/system): Inaktive Tabs werden in den Ruhezustand versetzt, gehen aber nicht verloren. Deaktivieren Sie auch unnötige Erweiterungen.
+Chrome böngésző	Chrome browser	Chrome-Browser
+böngésző: lapok és bővítmények külön folyamatban.	browser: tabs and extensions in separate processes.	Browser: Tabs und Erweiterungen laufen in separaten Prozessen.
+Memory Saver mód és kevesebb nyitott lap segít.	Memory Saver mode and fewer open tabs help.	Der Memory-Saver-Modus und weniger geöffnete Tabs helfen.
+böngésző és a Windows beágyazott webes felületeinek motorja.	browser and the engine of Windows' embedded web interfaces.	Browser und Engine der in Windows eingebetteten Weboberflächen.
+Az Edge háttérben is futhat; kikapcsolható a Startup boost.	Edge can also run in the background; Startup boost can be turned off.	Edge kann auch im Hintergrund laufen; Startup Boost lässt sich deaktivieren.
+böngésző, lapok külön tartalom-folyamatban.	browser, tabs in separate content processes.	Browser, Tabs in separaten Inhaltsprozessen.
+Kevesebb lap és bővítmény = kevesebb RAM.	Fewer tabs and extensions = less RAM.	Weniger Tabs und Erweiterungen = weniger RAM.
+Antigravity (szerkesztő)	Antigravity (editor)	Antigravity (Editor)
+Electron-alapú fejlesztői környezet: főablak, bővítmény-gazda, nyelvi szerverek és a beágyazott terminálok külön folyamatok.	Electron-based development environment: main window, extension host, language servers and embedded terminals are separate processes.	Electron-basierte Entwicklungsumgebung: Hauptfenster, Erweiterungshost, Sprachserver und eingebettete Terminals sind separate Prozesse.
+Minden megnyitott ablak és bővítmény külön fogyaszt: zárd be a régi ablakokat, kapcsold ki a használaton kívüli bővítményeket.	Every open window and extension consumes separately: close old windows, turn off unused extensions.	Jedes geöffnete Fenster und jede Erweiterung verbraucht separat: Schließen Sie alte Fenster und deaktivieren Sie nicht verwendete Erweiterungen.
+Electron-alapú szerkesztő, bővítmények külön folyamatban.	Electron-based editor, extensions in separate processes.	Electron-basierter Editor, Erweiterungen in separaten Prozessen.
+Zárd be a használaton kívüli ablakokat és bővítményeket.	Close unused windows and extensions.	Schließen Sie nicht verwendete Fenster und Erweiterungen.
+egy Claude Code munkamenet; a memóriája a beszélgetés hosszával nő.	a Claude Code session; its memory grows with the length of the conversation.	eine Claude-Code-Sitzung; ihr Speicherbedarf wächst mit der Länge der Unterhaltung.
+Hosszú munkamenetnél használd a /compact parancsot, vagy indíts újat; ne fusson 3 párhuzamosan, ha nem kell.	For a long session, use the /compact command or start a new one; do not run 3 in parallel if not needed.	Verwenden Sie bei einer langen Sitzung den Befehl /compact oder starten Sie eine neue; führen Sie nicht 3 parallel aus, wenn es nicht nötig ist.
+a szerkesztő kódelemző háttérfolyamata (kiegészítés, hibák).	the editor's code analysis background process (completion, errors).	der Hintergrundprozess der Codeanalyse des Editors (Vervollständigung, Fehler).
+Nagy projektnél több RAM-ot kér; a megnyitott mappa méretétől függ.	For a large project it asks for more RAM; it depends on the size of the opened folder.	Bei einem großen Projekt benötigt er mehr RAM; das hängt von der Größe des geöffneten Ordners ab.
+JavaScript futtatókörnyezet: fejlesztői szerverek, eszközök.	JavaScript runtime: development servers, tools.	JavaScript-Laufzeitumgebung: Entwicklungsserver, Tools.
+Állítsd le a már nem használt fejlesztői szervereket.	Stop development servers that are no longer in use.	Beenden Sie nicht mehr verwendete Entwicklungsserver.
+Python program vagy szkript.	Python program or script.	Python-Programm oder -Skript.
+Ha egy szkript szivárog, újraindítás segít.	If a script leaks, a restart helps.	Wenn ein Skript Speicher verliert, hilft ein Neustart.
+Windows Defender (víruskereső)	Windows Defender (antivirus)	Windows Defender (Virenschutz)
+valós idejű védelem és vizsgálat; vizsgálat közben több RAM-ot és CPU-t használ.	real-time protection and scanning; uses more RAM and CPU while scanning.	Echtzeitschutz und Überprüfung; belegt während der Überprüfung mehr RAM und CPU.
+Ne kapcsold ki; a nagy projektmappákat és a fejlesztői gyorsítótárat kiveheted a vizsgálatból (kizárások).	Do not turn it off; you can exclude large project folders and the developer cache from scanning (exclusions).	Deaktivieren Sie ihn nicht; große Projektordner und den Entwickler-Cache können Sie von der Überprüfung ausschließen (Ausschlüsse).
+Memória-tömörítés	Memory compression	Speicherkomprimierung
+a Windows a ritkán használt memóriát tömöríti: RAM-ot spórol, ez nem szivárgás.	Windows compresses rarely used memory: it saves RAM, this is not a leak.	Windows komprimiert selten verwendeten Speicher: Das spart RAM und ist kein Speicherleck.
+Normális; nagy értéknél a gép már sokat kényszerül tömöríteni: több RAM vagy kevesebb nyitott program segít.	Normal; at a high value the machine is already forced to compress a lot: more RAM or fewer open programs help.	Normal; bei einem hohen Wert muss der Rechner bereits viel komprimieren: Mehr RAM oder weniger geöffnete Programme helfen.
+Windows szolgáltatások	Windows services	Windows-Dienste
+a Windows háttérszolgáltatásai, sok kis folyamatban.	Windows background services, in many small processes.	Hintergrunddienste von Windows in vielen kleinen Prozessen.
+Normális; egyenként kicsik.	Normal; each one is small.	Normal; jeder für sich ist klein.
+Windows Intéző (asztal, tálca)	Windows Explorer (desktop, taskbar)	Windows-Explorer (Desktop, Taskleiste)
+az asztal, a tálca és a fájlkezelő folyamata.	the process of the desktop, taskbar and file manager.	der Prozess für Desktop, Taskleiste und Dateimanager.
+Sok megnyitott Intéző-ablak vagy nagy mappák növelik.	Many open Explorer windows or large folders increase it.	Viele geöffnete Explorer-Fenster oder große Ordner erhöhen den Verbrauch.
+Asztali ablakkezelő	Desktop Window Manager	Desktopfenster-Manager
+ablakok kirajzolása, átlátszóság, animációk (a Glass hatásokat is ez rajzolja).	window rendering, transparency, animations (Glass effects are also drawn by this).	Fensterdarstellung, Transparenz, Animationen (auch die Glass-Effekte werden hiervon gezeichnet).
+Normális; sok monitor és hatás növeli.	Normal; many monitors and effects increase it.	Normal; viele Monitore und Effekte erhöhen den Verbrauch.
+Windows keresés	Windows Search	Windows-Suche
+a Start/keresés felülete.	the Start/search interface.	die Oberfläche von Start/Suche.
+A keresési indexelés időnként növeli.	Search indexing increases it from time to time.	Die Suchindizierung erhöht den Verbrauch zeitweise.
+Steam felület	Steam interface	Steam-Oberfläche
+a Steam böngésző-alapú felülete.	the Steam browser-based interface.	die browserbasierte Oberfläche von Steam.
+Ha nem játszol, zárd be a Steamet.	If you are not gaming, close Steam.	Wenn Sie nicht spielen, schließen Sie Steam.
+játékindító és kliens.	game launcher and client.	Spielestarter und Client.
+Ha nem játszol, zárd be.	If you are not gaming, close it.	Wenn Sie nicht spielen, schließen Sie ihn.
+Electron-alapú csevegő.	Electron-based chat app.	Electron-basierte Chat-App.
+Háttérben is fut; kilépéssel felszabadul.	It also runs in the background; quitting frees it up.	Läuft auch im Hintergrund; durch Beenden wird der Speicher freigegeben.
+zenelejátszó (Chromium-alapú).	music player (Chromium-based).	Musikplayer (Chromium-basiert).
+Zárd be, ha nem használod.	Close it if you are not using it.	Schließen Sie ihn, wenn Sie ihn nicht verwenden.
+élő háttérkép-motor.	live wallpaper engine.	Engine für Live-Hintergrundbilder.
+A bonyolult háttérképek több RAM-ot és GPU-t használnak.	Complex wallpapers use more RAM and GPU.	Aufwendige Hintergrundbilder beanspruchen mehr RAM und GPU.
+videokártya-vezérlőpult.	graphics card control panel.	Systemsteuerung der Grafikkarte.
+Bezárható, a vezérlő háttérszolgáltatása marad.	It can be closed; the controller's background service remains.	Es kann geschlossen werden; der Hintergrunddienst des Treibers bleibt bestehen.
+AMD háttérszolgáltatás	AMD background service	AMD-Hintergrunddienst
+a Radeon Software háttérszolgáltatása.	the background service of Radeon Software.	der Hintergrunddienst der Radeon Software.
+Normális.	Normal.	Normal.
+memóriatisztító program.	memory cleaner program.	Programm zur Speicherbereinigung.
+Kis fogyasztású.	Low consumption.	Geringer Verbrauch.
+a saját dokkod, tálca-pilulák, Start-menü, Spotlight.	your own dock, taskbar pills, Start menu, Spotlight.	Ihr eigenes Dock, Taskleisten-Pills, Startmenü, Spotlight.
+Kicsi; a háttérkép-elmosásokat csak megnyitáskor számolja.	Small; it computes the wallpaper blurs only when opened.	Gering; die Hintergrundunschärfen werden nur beim Öffnen berechnet.
+a vezérlőközpont, benne az analitika és a terminál.	the control center, including analytics and the terminal.	die Steuerzentrale mit Analyse und Terminal.
+A mérés 5 mp-enként fut, a fogyasztása kicsi.	Measurement runs every 5 s and its consumption is small.	Die Messung läuft alle 5 Sek. und verbraucht wenig.
+Terminal (saját)	Terminal (own)	Terminal (eigenes)
+a macOS-kinézetű terminál.	the macOS-style terminal.	das Terminal im macOS-Stil.
+Kicsi; a görgetési előzmények (10 000 sor) nőhetnek.	Small; the scrollback history (10,000 lines) can grow.	Gering; der Scrollback-Verlauf (10 000 Zeilen) kann wachsen.
+Hosszú kimenetek és nagy változók nőhetnek.	Long outputs and large variables can grow.	Lange Ausgaben und große Variablen können wachsen.
+Konzol-gazda	Console host	Konsolenhost
+a parancssori ablakok kiszolgálója.	serves the command-line windows.	bedient die Eingabeaufforderungsfenster.
+Kicsi.	Small.	Klein.
+felhő-szinkron.	cloud sync.	Cloud-Synchronisierung.
+Szinkron közben nő; szüneteltethető.	Grows during sync; can be paused.	Wächst während der Synchronisierung; kann angehalten werden.
+Rendszerleíró adatbázis	Registry	Registrierung
+a Windows beállításai a memóriában.	Windows settings in memory.	Windows-Einstellungen im Arbeitsspeicher.
+Normális, rendszer által kezelt.	Normal, managed by the system.	Normal, vom System verwaltet.
+Windows rendszermag	Windows Kernel	Windows-Kernel
+a Windows kernelje és meghajtói.	the Windows kernel and drivers.	der Windows-Kernel und die Treiber.
+Rendszer által kezelt.	Managed by the system.	Vom System verwaltet.
+szakasz kész: 	stage complete: 	Phase abgeschlossen: 
+tanulás kész; 	learning complete; 	Lernen abgeschlossen; 
+tanulási hiba: 	learning error: 	Lernfehler: 
+megjegyzes=Nincs mérés ebben az időszakban (a GlassControl nem futott).	megjegyzes=No measurement in this period (GlassControl was not running).	megjegyzes=Keine Messung in diesem Zeitraum (GlassControl lief nicht).
+ | nincs mérés	 | no measurement	 | keine Messung
+# weekday(0=hétfő) avg_pct minutes	# weekday(0=Monday) avg_pct minutes	# weekday(0=Montag) avg_pct minutes
+# p|név|átlagMB|csúcsMB|csúcs ideje|jelen_perc|munkamenet|átlag_munkamenet_perc|előtérben_perc|trend_MB_óra|indulási órák(óra:db)|aktív órák(óra:perc)|előtér órák(óra:perc)	# p|name|avgMB|peakMB|peak time|present_min|session|avg_session_min|foreground_min|trend_MB_hour|start hours(hour:count)|active hours(hour:min)|foreground hours(hour:min)	# p|Name|DurchschnittMB|SpitzeMB|Spitzenzeit|Anwesenheit_Min|Sitzung|Durchschn_Sitzung_Min|Vordergrund_Min|Trend_MB_Std|Startstunden(Std:Anz)|aktive Stunden(Std:Min)|Vordergrundstunden(Std:Min)
+ó	h	h
+ | átlag 	 | avg 	 | Durchschnitt 
+% csúcs 	% peak 	% Spitze 
+ | mérés 	 | measurement 	 | Messung 
+. hét (a hónap 	. week (of the month 	. Woche (des Monats 
+ – hónap összegzés (4 hét)	 – monthly summary (4 weeks)	 – Monatszusammenfassung (4 Wochen)
+készült: 	created: 	erstellt: 
+memória átlag: 	average memory: 	Arbeitsspeicher-Durchschnitt: 
+%  csúcs: 	%  peak: 	%  Spitze: 
+ tisztítás, 	 cleanups, 	 Bereinigungen, 
+ MB felszabadítva	 MB freed	 MB freigegeben
+legtöbbet futó/fogyasztó programok (átlag MB, összes futásidő órában):	most-running/most-consuming programs (average MB, total runtime in hours):	am häufigsten laufende/ressourcenintensivste Programme (Durchschnitt MB, Gesamtlaufzeit in Stunden):
+ óra	 hours	 Stunden
+előző hónaphoz képest: 	compared to previous month: 	im Vergleich zum Vormonat: 
+ százalékpont (előző hónap: 	 percentage points (previous month: 	 Prozentpunkte (Vormonat: 
+A 4 hét heti összegzői:	Weekly summaries of the 4 weeks:	Wochenzusammenfassungen der 4 Wochen:
+=== MEMORY – tanult tudás (soha nem törlődik; naponta frissül a mappa összes txt-jéből) ===	=== MEMORY – learned knowledge (never deleted; updated daily from all txt files in the folder) ===	=== MEMORY – gelerntes Wissen (wird nie gelöscht; täglich aus allen txt-Dateien des Ordners aktualisiert) ===
+=== SWEEP-POLICY (tanult seprési szabályok) ===	=== SWEEP-POLICY (learned sweep rules) ===	=== SWEEP-POLICY (gelernte Bereinigungsregeln) ===
+=== PREDICTION (várható terhelés, óránként) ===	=== PREDICTION (expected load, hourly) ===	=== PREDICTION (erwartete Auslastung, stündlich) ===
+ fájlból tanult, 	 files learned from, 	 Dateien gelernt, 
+ program, 	 programs, 	 Programme, 
+ nap	 days	 Tage
+Még nem futott	Not run yet	Noch nicht ausgeführt
+📊 Feladatkezelő & RAM	📊 Task Manager & RAM	📊 Task-Manager & RAM
+🍏 iOS Glass UI Vezérlő	🍏 iOS Glass UI Control	🍏 iOS-Glass-UI-Steuerung
+🛠️ Fejlesztői Hub	🛠️ Developer Hub	🛠️ Entwickler-Hub
+💻 Terminál	💻 Terminal	💻 Terminal
+Használatban: 	In use: 	Verwendet: 
+Elérhető: 	Available: 	Verfügbar: 
+Felszabadítás: Még nem futott	Freed: Not run yet	Freigegeben: Noch nicht ausgeführt
+🔀  Optimalizálás / AZONNALI SEPERGETÉS	🔀  Optimize / INSTANT SWEEP	🔀  Optimieren / SOFORT-BEREINIGUNG
+Optimalizálás folyamatban...	Optimizing...	Optimierung läuft...
+Felszabadítás: {0:F2} GB | Időpont: {1}	Freed: {0:F2} GB | Time: {1}	Freigegeben: {0:F2} GB | Zeit: {1}
+Memóriatisztítás sikeres!\n\nÜrített folyamatok: {0} db\nFelszabadítva: ~{1:F1} MB	Memory cleanup successful!\n\nProcesses emptied: {0}\nFreed: ~{1:F1} MB	Speicherbereinigung erfolgreich!\n\nGeleerte Prozesse: {0}\nFreigegeben: ~{1:F1} MB
+Munkakészlet Ürítés	Empty Working Set	Arbeitssatz leeren
+Feladat Befejezése	End Task	Task beenden
+Név	Name	Name
+Útvonal	Path	Pfad
+PID {0} munkakészlete kiürítve!	Working set of PID {0} emptied!	Arbeitssatz von PID {0} geleert!
+Siker	Success	Erfolg
+Biztosan leállítod a PID {0} folyamatot?	Are you sure you want to end process PID {0}?	Soll der Prozess mit PID {0} wirklich beendet werden?
+Megerősítés	Confirmation	Bestätigung
+🔄 GlassDock Újraindítása	🔄 Restart GlassDock	🔄 GlassDock neu starten
+📌 Asztali Ikonok Helyének Visszaállítása	📌 Restore Desktop Icon Positions	📌 Positionen der Desktopsymbole wiederherstellen
+🚫 Parancsikon Nyilak & Pajzsok Elrejtése	🚫 Hide Shortcut Arrows & Shields	🚫 Verknüpfungspfeile & Schutzschilde ausblenden
+Eszköz	Tool	Tool
+Állapot	Status	Status
+Telepítés Parancs	Install Command	Installationsbefehl
+🐍 Python Telepítése (Winget)	🐍 Install Python (Winget)	🐍 Python installieren (Winget)
+⚡ Node.js Telepítése (Winget)	⚡ Install Node.js (Winget)	⚡ Node.js installieren (Winget)
+🐙 Git Telepítése (Winget)	🐙 Install Git (Winget)	🐙 Git installieren (Winget)
+✓ Telepítve	✓ Installed	✓ Installiert
+✗ Hiányzik	✗ Missing	✗ Fehlt
+\n[TELEPÍTÉS] Winget csomag: {0}...\n	\n[INSTALL] Winget package: {0}...\n	\n[INSTALLATION] Winget-Paket: {0}...\n
+\n[KÉSZ]\n	\n[DONE]\n	\n[FERTIG]\n
+GlassControl Console v1.0.0 [Native Win32 Admin App]\nÍrj be egy PowerShell / CMD parancsot alább...\n\n	GlassControl Console v1.0.0 [Native Win32 Admin App]\nType a PowerShell / CMD command below...\n\n	GlassControl Console v1.0.0 [Native Win32 Admin App]\nUnten einen PowerShell-/CMD-Befehl eingeben...\n\n
+ MB -> GC után 	 MB -> after GC 	 MB -> nach GC 
+A fül nem tölthető be: 	The tab could not be loaded: 	Die Registerkarte konnte nicht geladen werden: 
+📂 Lumen megnyitása	📂 Open Lumen	📂 Lumen öffnen
+🧹 Gyors Memóriatisztítás	🧹 Quick Memory Cleanup	🧹 Schnelle Speicherbereinigung
+❌ Kilépés	❌ Exit	❌ Beenden
+Lumen telepítve	Lumen installed	Lumen installiert
+Parancsikon az asztalon és a Start-menüben (keresd: Lumen).	Shortcut on the desktop and in the Start menu (search: Lumen).	Verknüpfung auf dem Desktop und im Startmenü (Suche: Lumen).
+📊 Feladatkezelő	📊 Task Manager	📊 Task-Manager
+📖 Súgó	📖 Help	📖 Hilfe
+dupla kattintás	double-click	Doppelklick
+Háttérbe (tálca ikon)	To background (tray icon)	In den Hintergrund (Infobereichssymbol)
+Indítás a Windows-szal (háttérben)	Start with Windows (in background)	Mit Windows starten (im Hintergrund)
+Analitika megnyitása	Open Analytics	Analyse öffnen
+GlassControl mappa megnyitása	Open GlassControl folder	GlassControl-Ordner öffnen
+Parancsikonok újralétrehozása (asztal, Start)	Recreate shortcuts (desktop, Start)	Verknüpfungen neu erstellen (Desktop, Start)
+Terminal megnyitása (külön ablak)	Open Terminal (separate window)	Terminal öffnen (separates Fenster)
+Kilépés (a mérés is leáll)	Exit (measurement stops too)	Beenden (die Messung wird ebenfalls beendet)
+indítás utáni seprés	post-startup sweep	Bereinigung nach dem Start
+memória 	memory 	Arbeitsspeicher 
+szabad memória < 	free memory < 	freier Speicher < 
+időzítés (	schedule (	Zeitplan (
+tanult: ez az óra általában nehéz (	learned: this hour is usually heavy (	gelernt: Diese Stunde ist meist stark ausgelastet (
+Utolsó automatikus indok: 	Last automatic reason: 	Letzter automatischer Grund: 
+Optimalizálás most	Optimize now	Jetzt optimieren
+📈 Heti riport (HTML kártya)	📈 Weekly report (HTML card)	📈 Wochenbericht (HTML-Karte)
+Automatikus seprés	Automatic sweep	Automatische Bereinigung
+Küszöb (ennyi % felett seper)	Threshold (sweeps above this %)	Schwellenwert (Bereinigung ab diesem %)
+Legfeljebb ennyi percenként	At most once every	Höchstens einmal alle
+5 perc	5 min	5 Min.
+20 perc	20 min	20 Min.
+30 perc	30 min	30 Min.
+Okos mód (a tanult szabályokból)	Smart mode (from learned rules)	Intelligenter Modus (aus den gelernten Regeln)
+Haladó beállítások…	Advanced settings…	Erweiterte Einstellungen…
+Tanult tudás (memory.txt) megnyitása	Open learned knowledge (memory.txt)	Gelerntes Wissen (memory.txt) öffnen
+Jelölj ki egy folyamatot	Select a process	Prozess auswählen
+RAM ürítés (csak ez)	Empty RAM (this one only)	RAM leeren (nur dieser)
+megerősítéssel	with confirmation	mit Bestätigung
+Összes "	End all "	Alle "
+" leállítása	"	" beenden
+Prioritás	Priority	Priorität
+Alacsony	Low	Niedrig
+Normál	Normal	Normal
+Magas	High	Hoch
+Útvonal megnyitása (nincs hozzáférés)	Open path (no access)	Pfad öffnen (kein Zugriff)
+PID másolása	Copy PID	PID kopieren
+Keresés az interneten	Search the web	Im Internet suchen
+Boncolás… (szülő, parancssor, portok, indítás)	Inspect… (parent, command line, ports, startup)	Analysieren… (übergeordneter Prozess, Befehlszeile, Ports, Start)
+Megnyitás az Analitikában	Open in Analytics	In Analyse öffnen
+Lista frissítése	Refresh list	Liste aktualisieren
+Folyamatok leállítása	End processes	Prozesse beenden
+Ez egy védett rendszerfolyamat, nem állítom le.	This is a protected system process; it will not be ended.	Dies ist ein geschützter Systemprozess; er wird nicht beendet.
+Jobb klikk az ablakon: küszöb, gyakoriság, okos mód	Right-click the window: threshold, frequency, smart mode	Rechtsklick auf das Fenster: Schwellenwert, Häufigkeit, intelligenter Modus
+kézi (okos) seprés	manual (smart) sweep	manuelle (intelligente) Bereinigung
+⚙  Haladó beállítások  ▾	⚙  Advanced settings  ▾	⚙  Erweiterte Einstellungen  ▾
+⚙  Haladó beállítások  ▴	⚙  Advanced settings  ▴	⚙  Erweiterte Einstellungen  ▴
+🎯  Fókusz-mód: KI	🎯  Focus mode: OFF	🎯  Fokusmodus: AUS
+Seprés + Wallpaper Engine szünet + felugró értesítések némítása; újra megnyomva minden visszaáll	Sweep + pause Wallpaper Engine + mute pop-up notifications; press again to restore everything	Bereinigung + Wallpaper Engine pausieren + Popup-Benachrichtigungen stummschalten; erneutes Drücken stellt alles wieder her
+🎯  Fókusz-mód: BE	🎯  Focus mode: ON	🎯  Fokusmodus: EIN
+fókusz-mód	focus mode	Fokusmodus
+kézi seprés	manual sweep	manuelle Bereinigung
+Automatikus seprés...	Automatic sweep...	Automatische Bereinigung...
+Automatikus optimalizálás · 	Automatic optimization · 	Automatische Optimierung · 
+Utolsó optimalizálás · 	Last optimization · 	Letzte Optimierung · 
+ · okos	 · smart	 · intelligent
+ folyamat · 	 processes · 	 Prozesse · 
+ felszabadítva · elérhető: 	 freed · available: 	 freigegeben · verfügbar: 
+{0:F0} MB felszabadítva ({1} folyamat). Elérhető: {2:F1} → {3:F1} GB	{0:F0} MB freed ({1} processes). Available: {2:F1} → {3:F1} GB	{0:F0} MB freigegeben ({1} Prozesse). Verfügbar: {2:F1} → {3:F1} GB
+RAM ürítés	Empty RAM	RAM leeren
+Előbb jelölj ki egy folyamatot a listában.	Select a process in the list first.	Zuerst einen Prozess in der Liste auswählen.
+Biztosan leállítod?\n\n{0} (PID {1}, {2})\n\nA nem mentett munka elveszhet.	Are you sure you want to end it?\n\n{0} (PID {1}, {2})\n\nUnsaved work may be lost.	Wirklich beenden?\n\n{0} (PID {1}, {2})\n\nNicht gespeicherte Arbeit kann verloren gehen.
+A PID közben másik folyamaté lett – a lista frissül.	The PID now belongs to a different process – the list is refreshing.	Die PID gehört inzwischen zu einem anderen Prozess – die Liste wird aktualisiert.
+Nem sikerült leállítani: 	Could not end: 	Beenden nicht möglich: 
+Spotlight kérés	Spotlight request	Spotlight-Anfrage
+Teszt	Test	Test
+A shell azonnal leáll – nézd meg a profilt (term.ini)	The shell exits immediately – check the profile (term.ini)	Die Shell wird sofort beendet – Profil prüfen (term.ini)
+időtúllépés	timeout	Zeitüberschreitung
+Dupla kattintás = alapérték	Double-click = default	Doppelklick = Standardwert
+Minden változtatás élőben látszik a dokkon, a pilulákon, a Start-menün és a Spotlighton (kb. 0,3 mp). Dupla kattintás egy csúszka nevén = alapérték.	Every change is visible live on the dock, the pills, the Start menu and Spotlight (approx. 0.3 s). Double-click a slider's name = default value.	Jede Änderung ist live am Dock, an den Pills, im Startmenü und in Spotlight sichtbar (ca. 0,3 s). Doppelklick auf den Namen eines Reglers = Standardwert.
+iOS alap	iOS default	iOS-Standard
+Üvegtiszta	Crystal clear	Glasklar
+Mély éjszaka	Deep night	Tiefe Nacht
+Jég	Ice	Eis
+Rózsa	Rose	Rose
+Átlátszó	Transparent	Transparent
+Nagyon kerek	Very round	Sehr rund
+Éles sarkok	Sharp corners	Scharfe Ecken
+Előbeállítások	Presets	Voreinstellungen
+Ha eltűnt a háttér: a Wallpaper Engine újraindítása visszahozza (kb. 8 mp).	If the background has disappeared: restarting Wallpaper Engine brings it back (approx. 8 s).	Wenn der Hintergrund verschwunden ist: Ein Neustart von Wallpaper Engine bringt ihn zurück (ca. 8 s).
+🔄 Háttér újraindítása	🔄 Restart background	🔄 Hintergrund neu starten
+Újraindítás…	Restarting…	Neustart…
+▶ Lejátszás	▶ Play	▶ Wiedergabe
+Lejátszás kérve.	Play requested.	Wiedergabe angefordert.
+⏸ Szünet	⏸ Pause	⏸ Pause
+Szünet kérve.	Pause requested.	Pause angefordert.
+Háttér (Wallpaper Engine)	Background (Wallpaper Engine)	Hintergrund (Wallpaper Engine)
+Üveg sűrűsége (0 = tiszta, 240 = tömör)	Glass density (0 = clear, 240 = solid)	Glasdichte (0 = klar, 240 = massiv)
+Elmosás ereje	Blur strength	Weichzeichnungsstärke
+Háttér telítettsége	Background saturation	Hintergrundsättigung
+Háttér fényereje	Background brightness	Hintergrundhelligkeit
+Fényes felső sáv	Glossy top strip	Heller oberer Streifen
+Keret erőssége	Border strength	Rahmenstärke
+Üveg	Glass	Glas
+Árnyalat	Hue	Farbton
+Telítettség	Saturation	Sättigung
+Világosság	Lightness	Helligkeit
+Hexa kód	Hex code	Hex-Code
+Keret színe	Border color	Rahmenfarbe
+Színárnyalat	Color tint	Farbstich
+Dokk és pilulák (0 = szögletes, 1 = kerek)	Dock and pills (0 = square, 1 = round)	Dock und Pills (0 = eckig, 1 = rund)
+Start-menü és Spotlight	Start menu and Spotlight	Startmenü und Spotlight
+Ikon-csempék (dokk, menü)	Icon tiles (dock, menu)	Symbolkacheln (Dock, Menü)
+Felugró ablakok (naptár, hangerő…)	Pop-ups (calendar, volume…)	Popups (Kalender, Lautstärke…)
+Felugró ablakok távolsága a széltől	Pop-up distance from the edge	Abstand der Popups zum Rand
+Kerekítés	Rounding	Rundung
+Csempe-üveg erőssége	Tile glass strength	Stärke des Kachelglases
+Ikonok fényereje	Icon brightness	Symbolhelligkeit
+Üveg csempék a dokkban	Glass tiles in the dock	Glaskacheln im Dock
+Animációk sebessége	Animation speed	Animationsgeschwindigkeit
+Ikonok és mozgás	Icons and motion	Symbole und Bewegung
+Keresés a betűtípusok között	Search fonts	Schriftarten durchsuchen
+Aktuális betű: 	Current font: 	Aktuelle Schriftart: 
+Betűméret (menük, Spotlight)	Font size (menus, Spotlight)	Schriftgröße (Menüs, Spotlight)
+Vastagság	Weight	Schriftstärke
+Félkövér	Bold	Fett
+Kövér	Extra bold	Extrafett
+Betűtípus	Font	Schriftart
+Dokk automatikus elrejtése	Auto-hide dock	Dock automatisch ausblenden
+Tálca-pilulák (Start, óra)	Taskbar pills (Start, clock)	Taskleisten-Pills (Start, Uhr)
+Start gomb a dokkban	Start button in the dock	Startschaltfläche im Dock
+Saját Start-menü	Custom Start menu	Eigenes Startmenü
+újraindítás kell hozzá	requires restart	Neustart erforderlich
+Felugró ablakok lekerekítése	Round pop-up corners	Popup-Ecken abrunden
+Asztali ikonok üveg csempéi	Glass tiles for desktop icons	Glaskacheln für Desktopsymbole
+Kapcsolók	Switches	Schalter
+Dokk újraindítása	Restart dock	Dock neu starten
+Minden alapértékre	Reset all to defaults	Alles auf Standardwerte zurücksetzen
+Asztali ikonok elrendezésének visszaállítása	Restore desktop icon layout	Anordnung der Desktopsymbole wiederherstellen
+Parancsikon nyilak és pajzsok elrejtése	Hide shortcut arrows and shields	Verknüpfungspfeile und Schutzschilde ausblenden
+Műveletek	Actions	Aktionen
+Előbeállítás	Preset	Voreinstellung
+Beállításfájl megnyitása (settings.ini)	Open settings file (settings.ini)	Einstellungsdatei (settings.ini) öffnen
+Dokk mappa megnyitása	Open dock folder	Dock-Ordner öffnen
+2026. október 10., szombat	Saturday, October 10, 2026	Samstag, 10. Oktober 2026
+Terminál	Terminal	Terminal
+Lapok, panelek, ablak	Tabs, panes, window	Registerkarten, Bereiche, Fenster
+Lapok és osztott panelek	Tabs and split panes	Registerkarten und geteilte Bereiche
+Kész	Done	Fertig
+Ctrl+Shift+T új lap, Ctrl+Shift+D / E jobbra / lefelé osztás, húzható elválasztó, Ctrl+Shift+Z panel kinagyítása. A lap átnevezhető, színezhető, húzással átrendezhető, a bezárt lap visszahozható (Ctrl+Shift+U).	Ctrl+Shift+T new tab, Ctrl+Shift+D / E split right / down, draggable divider, Ctrl+Shift+Z maximize pane. A tab can be renamed, colored and reordered by dragging, and a closed tab can be restored (Ctrl+Shift+U).	Ctrl+Shift+T neue Registerkarte, Ctrl+Shift+D / E nach rechts / unten teilen, verschiebbare Trennlinie, Ctrl+Shift+Z Bereich maximieren. Registerkarten können umbenannt, eingefärbt und per Ziehen neu angeordnet werden; eine geschlossene Registerkarte lässt sich wiederherstellen (Ctrl+Shift+U).
+Ctrl+Shift+P: 200+ művelet fuzzy kereséssel (témák, betűk, export, profilok, kapcsolók). A gyorsbillentyűk a terminal\\keys.ini fájlban átírhatók (azonosító=Ctrl+Shift+X).	Ctrl+Shift+P: 200+ actions with fuzzy search (themes, fonts, export, profiles, switches). Shortcuts can be changed in the terminal\\keys.ini file (id=Ctrl+Shift+X).	Ctrl+Shift+P: über 200 Aktionen mit unscharfer Suche (Designs, Schriftarten, Export, Profile, Schalter). Die Tastenkombinationen lassen sich in der Datei terminal\\keys.ini ändern (ID=Ctrl+Shift+X).
+Quake mód	Quake mode	Quake-Modus
+Terminal.exe /quake: a képernyő tetejéről lecsúszó terminál, globális Ctrl+Alt+Space gyorsbillentyűvel (quakekey= a term.ini-ben).	Terminal.exe /quake: a terminal that slides down from the top of the screen, with the global Ctrl+Alt+Space hotkey (quakekey= in term.ini).	Terminal.exe /quake: ein Terminal, das vom oberen Bildschirmrand herunterfährt, mit dem globalen Hotkey Ctrl+Alt+Space (quakekey= in der term.ini).
+Profilok és munkamenet	Profiles and session	Profile und Sitzung
+PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node, SSH-gazdák automatikusan; induláskor a lapok és mappák visszatérnek. Saját profil: profile.N=név;parancs;mappa.	PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node and SSH hosts are detected automatically; on startup the tabs and folders are restored. Custom profile: profile.N=name;command;folder.	PowerShell, pwsh, cmd, Git Bash, WSL, Python, Node und SSH-Hosts werden automatisch erkannt; beim Start werden Registerkarten und Ordner wiederhergestellt. Eigenes Profil: profile.N=Name;Befehl;Ordner.
+Parancsok és kimenet	Commands and output	Befehle und Ausgabe
+Parancs-blokkok	Command blocks	Befehlsblöcke
+Minden parancs mellett ✓/✗ jelvény és futási idő, hibánál piros sáv. Ctrl+Fel/Le ugrás a parancsok között, Ctrl+Shift+O az utolsó kimenet másolása, újrafuttatás.	Every command gets a ✓/✗ badge and run time, with a red bar on error. Ctrl+Up/Down jumps between commands, Ctrl+Shift+O copies the last output, rerun.	Neben jedem Befehl ein ✓/✗-Abzeichen und die Laufzeit, bei Fehlern eine rote Leiste. Ctrl+Auf/Ab springt zwischen Befehlen, Ctrl+Shift+O kopiert die letzte Ausgabe, erneut ausführen.
+Előzmény-kereső	History search	Verlaufssuche
+Ctrl+R: a PowerShell előzményei és a nyitott lapok parancsai között keres; Enter beírja, Shift+Enter lefuttatja.	Ctrl+R: searches both the PowerShell history and the commands of open tabs; Enter types it in, Shift+Enter runs it.	Ctrl+R: durchsucht den PowerShell-Verlauf und die Befehle der geöffneten Registerkarten; Enter fügt den Befehl ein, Shift+Enter führt ihn aus.
+Linkek és útvonalak	Links and paths	Links und Pfade
+A http(s) link sima kattintásra megnyílik a böngészőben; fájl:sor:oszlop útvonal Ctrl+kattintásra a szerkesztőben. Futtatható fájlt kattintásra sosem indít.	An http(s) link opens in the browser on a plain click; a file:line:column path opens in the editor on Ctrl+click. An executable is never launched by clicking.	Ein http(s)-Link öffnet sich per einfachem Klick im Browser; ein Pfad der Form Datei:Zeile:Spalte öffnet sich per Ctrl+Klick im Editor. Ausführbare Dateien werden per Klick nie gestartet.
+Ctrl+F: a teljes görgetősávban, regex és kis/nagybetű kapcsolóval, F3 léptetés.	Ctrl+F: across the entire scrollback, with regex and case-sensitivity toggles, F3 steps through.	Ctrl+F: im gesamten Scrollback, mit Schaltern für Regex und Groß-/Kleinschreibung, F3 springt zum nächsten Treffer.
+Beillesztés-védelem	Paste protection	Einfügeschutz
+Többsoros szövegnél jóváhagyás, veszélyes parancsnál külön figyelmeztetés (csak Y fogadja el), okos idézőjel-javítás, vezérlőkarakterek kiszűrése.	Approval for multi-line text, a separate warning for dangerous commands (only Y accepts), smart quote correction, control characters filtered out.	Bestätigung bei mehrzeiligem Text, separate Warnung bei gefährlichen Befehlen (nur Y bestätigt), intelligente Korrektur von Anführungszeichen, Steuerzeichen werden herausgefiltert.
+Hosszú parancs értesítés	Long command notification	Benachrichtigung bei langem Befehl
+10 mp felett tálcavillogás, buborék és lapjelzés, ha máshol dolgozol.	Taskbar flashing, bubble and tab indicator after 10 s if you are working elsewhere.	Taskleisten-Blinken, Sprechblase und Tab-Hinweis nach 10 s, wenn du woanders arbeitest.
+Előnézet és eszközök	Preview and tools	Vorschau und Tools
+Előnézet a terminál alatt	Preview below the terminal	Vorschau unter dem Terminal
+localhost-cím (Vite, Next…) felismerése: „Előnézet alul” sáv; kézzel `preview 5173`, Ctrl+Shift+J. Edge-motor, DevTools, telefon/tablet szélesség.	Detects localhost addresses (Vite, Next…): “Preview below” bar; manually `preview 5173`, Ctrl+Shift+J. Edge engine, DevTools, phone/tablet widths.	Erkennt localhost-Adressen (Vite, Next…): Leiste „Vorschau unten“; manuell `preview 5173`, Ctrl+Shift+J. Edge-Engine, DevTools, Telefon-/Tablet-Breiten.
+Snippetek	Snippets	Snippets
+Ctrl+Shift+S: snippets.txt, változók: {ask:…} {clip} {cwd} {date}.	Ctrl+Shift+S: snippets.txt, variables: {ask:…} {clip} {cwd} {date}.	Ctrl+Shift+S: snippets.txt, Variablen: {ask:…} {clip} {cwd} {date}.
+Export és napló	Export and log	Export und Protokoll
+Szöveg, HTML (színekkel), PNG; munkamenet-napló fájlba; vágólap-előzmény (Ctrl+Shift+H).	Text, HTML (with colors), PNG; session log to file; clipboard history (Ctrl+Shift+H).	Text, HTML (mit Farben), PNG; Sitzungsprotokoll in Datei; Zwischenablageverlauf (Ctrl+Shift+H).
+Titok-őr	Secret guard	Geheimnisschutz
+A kimenetben felismert API-kulcsokat/tokeneket (sk-…, ghp_…, AKIA…, JWT) elmossa; egérrel fölé víve látszanak. Palettából kapcsolható.	Blurs API keys/tokens detected in the output (sk-…, ghp_…, AKIA…, JWT); they become visible on mouse hover. Can be toggled from the palette.	Verwischt in der Ausgabe erkannte API-Schlüssel/Tokens (sk-…, ghp_…, AKIA…, JWT); sichtbar, wenn man mit der Maus darüberfährt. Über die Palette umschaltbar.
+Fejlesztői Hub	Developer Hub	Entwickler-Hub
+Eszközök	Tools	Tools
+29 eszköz valódi verzióval, egy kattintásos telepítés / frissítés / eltávolítás (winget), csoportos telepítés pipákkal.	29 tools with real versions, one-click install / update / uninstall (winget), batch install with checkboxes.	29 Tools mit echten Versionen, Installation / Aktualisierung / Deinstallation mit einem Klick (winget), Sammelinstallation per Häkchen.
+Winget-kereső	Winget search	Winget-Suche
+Keresés a teljes winget-katalógusban. Ha a winget forrás (cdn.winget.microsoft.com) nem elérhető, a Hub jelzi, és a gyártó oldalát ajánlja.	Search the entire winget catalog. If the winget source (cdn.winget.microsoft.com) is unreachable, the Hub reports it and suggests the vendor's website.	Suche im gesamten winget-Katalog. Wenn die winget-Quelle (cdn.winget.microsoft.com) nicht erreichbar ist, meldet der Hub das und empfiehlt die Website des Herstellers.
+Projektek	Projects	Projekte
+Automatikus keresés, típus- és git-állapot, szkriptek gombként, git műveletek, build-mappák méretezése és törlése.	Automatic discovery, type and git status, scripts as buttons, git actions, sizing and deleting build folders.	Automatische Suche, Typ- und Git-Status, Skripte als Schaltflächen, Git-Aktionen, Größenermittlung und Löschen von Build-Ordnern.
+Új projekt	New project	Neues Projekt
+13 sablon (React/Vite, Next, Vue, Svelte, weboldal, Express, Python, FastAPI, .NET, Rust, Go).	13 templates (React/Vite, Next, Vue, Svelte, website, Express, Python, FastAPI, .NET, Rust, Go).	13 Vorlagen (React/Vite, Next, Vue, Svelte, Website, Express, Python, FastAPI, .NET, Rust, Go).
+Portok	Ports	Ports
+Élő lista, megnyitás, URL másolás, leállítás, és „📺 Terminal preview” gomb minden sorban.	Live list, open, copy URL, stop, and a “📺 Terminal preview” button on every row.	Live-Liste, Öffnen, URL kopieren, Beenden und eine Schaltfläche „📺 Terminal preview“ in jeder Zeile.
+Környezet	Environment	Umgebung
+PATH-szerkesztő (REG_EXPAND_SZ megőrzésével), változók, git beállítások, SSH-kulcs.	PATH editor (preserving REG_EXPAND_SZ), variables, git settings, SSH key.	PATH-Editor (mit Erhalt von REG_EXPAND_SZ), Variablen, Git-Einstellungen, SSH-Schlüssel.
+Gyorseszközök	Quick tools	Schnelltools
+49 szövegeszköz: JSON, Base64, JWT, hash, UUID, jelszó, epoch, regex-teszt…	49 text tools: JSON, Base64, JWT, hash, UUID, password, epoch, regex test…	49 Text-Tools: JSON, Base64, JWT, Hash, UUID, Passwort, Epoch, Regex-Test…
+Takarítás	Cleanup	Bereinigung
+Csomag-gyorsítótárak, Temp, projektek node_modules és build-mappái, docker prune.	Package caches, Temp, projects' node_modules and build folders, docker prune.	Paket-Caches, Temp, node_modules und Build-Ordner der Projekte, docker prune.
+Docker	Docker	Docker
+Konténerek és képek kezelése, napló, shell.	Manage containers and images, logs, shell.	Container und Images verwalten, Protokoll, Shell.
+Lumen	Lumen	Lumen
+Memória-seprés	Memory sweep	Speicherbereinigung
+Az „Optimalizálás” gomb minden folyamat munkakészletét összehúzza (védett rendszerfolyamatok kimaradnak). Automatikus mód küszöbbel, cooldown-nal, tétlenség-figyeléssel; teljes képernyős játék/videó közben nem fut.	The “Optimize” button trims the working set of every process (protected system processes are skipped). Auto mode with threshold, cooldown and idle detection; does not run during full-screen games/video.	Die Schaltfläche „Optimieren“ verkleinert den Arbeitssatz aller Prozesse (geschützte Systemprozesse werden ausgelassen). Automatikmodus mit Schwellenwert, Abklingzeit und Leerlauferkennung; läuft nicht während Vollbildspielen/-videos.
+Folyamatlista keresővel, RAM ürítés, leállítás megerősítéssel, jobb klikk menü, Boncolás.	Process list with search, RAM release, stop with confirmation, right-click menu, Dissect.	Prozessliste mit Suche, RAM freigeben, Beenden mit Bestätigung, Kontextmenü per Rechtsklick, Sezieren.
+Analitika	Analytics	Analyse
+5 mp-enkénti mérés, program-szintű átlag/csúcs/trend, tanuló rendszer (analytics mappa).	Measurement every 5 s, per-program average/peak/trend, learning system (analytics folder).	Messung alle 5 s, Durchschnitt/Spitze/Trend pro Programm, lernendes System (Ordner analytics).
+iOS Glass UI	iOS Glass UI	iOS Glass UI
+A dokk, pillek, Start menü és tálca stílusa élő csúszkákkal.	Style of the dock, pills, Start menu and taskbar with live sliders.	Stil von Dock, Pills, Startmenü und Taskleiste mit Live-Schiebereglern.
+Folyamat-boncolás	Process dissection	Prozess-Sezierung
+A feladatkezelőben jobb klikk → Boncolás: szülő-lánc, parancssor, nyitott portok, indítási bejegyzések, és egy kattintásos „indításkor tiltás” (HKCU).	In Task Manager right-click → Dissect: parent chain, command line, open ports, startup entries, and a one-click “disable at startup” (HKCU).	Im Task-Manager Rechtsklick → Sezieren: Elternkette, Befehlszeile, offene Ports, Autostart-Einträge und ein Ein-Klick-„Beim Start deaktivieren“ (HKCU).
+Fókusz-mód	Focus mode	Fokusmodus
+A wiper oldalon: egy gomb seper, szünetelteti a Wallpaper Enginet és elnémítja a felugró értesítéseket; újra megnyomva minden visszaáll.	On the wiper page: one button sweeps, pauses Wallpaper Engine and mutes pop-up notifications; press again to restore everything.	Auf der Wiper-Seite: Eine Schaltfläche bereinigt, pausiert Wallpaper Engine und stummt Popup-Benachrichtigungen; erneutes Drücken stellt alles wieder her.
+Memória-előrejelzés	Memory forecast	Speicherprognose
+A wiper oldalon élő sor: ha a memóriahasználat emelkedik, megbecsli, mikor éri el a 95%-ot.	A live line on the wiper page: if memory usage is rising, it estimates when it will reach 95%.	Eine Live-Zeile auf der Wiper-Seite: Steigt die Speicherauslastung, schätzt sie, wann 95 % erreicht werden.
+Megbízhatóság	Reliability	Zuverlässigkeit
+Atomi fájlírás, naplók mérete korlátos, védett folyamatok, PID-ellenőrzés leállításkor, kis képernyőre igazított ablak.	Atomic file writes, size-limited logs, protected processes, PID check on stop, window adapted to small screens.	Atomares Schreiben von Dateien, größenbegrenzte Protokolle, geschützte Prozesse, PID-Prüfung beim Beenden, an kleine Bildschirme angepasstes Fenster.
+Dokk és Spotlight	Dock and Spotlight	Dock und Spotlight
+Dokk és pillek	Dock and pills	Dock und Pills
+Üveg dokk, élő téma a settings.ini-ből, Start- és óra-pillek.	Glass dock, live theme from settings.ini, Start and clock pills.	Glas-Dock, Live-Design aus settings.ini, Start- und Uhr-Pills.
+Start menü	Start menu	Startmenü
+Saját Start menü (Win gomb), átrendezhető, oldalakkal.	Custom Start menu (Win key), rearrangeable, with pages.	Eigenes Startmenü (Win-Taste), neu anordenbar, mit Seiten.
+Spotlight	Spotlight	Spotlight
+Alt+Space vagy Win+S: alkalmazások, fájlok, számolás, webes keresés.	Alt+Space or Win+S: apps, files, calculator, web search.	Alt+Space oder Win+S: Apps, Dateien, Rechner, Websuche.
+Spotlight-akciók	Spotlight actions	Spotlight-Aktionen
+Írd be: `port 3000` (felszabadítás), `ram` (azonnali seprés) – a Spotlight műveletet is végez, nem csak keres.	Type: `port 3000` (free the port), `ram` (instant sweep) – Spotlight performs actions too, not just search.	Eingeben: `port 3000` (Port freigeben), `ram` (sofortige Bereinigung) – Spotlight führt auch Aktionen aus, nicht nur Suchen.
+Vágólap-érzékeny Spotlight	Clipboard-aware Spotlight	Zwischenablage-sensitives Spotlight
+Üres lekérdezésnél a vágólap tartalmához kínál műveletet: link megnyitása, JSON szépítése, útvonal megmutatása.	With an empty query it offers actions for the clipboard contents: open link, prettify JSON, show path.	Bei leerer Suche bietet es Aktionen für den Inhalt der Zwischenablage an: Link öffnen, JSON formatieren, Pfad anzeigen.
+Megbízható horog	Reliable hook	Zuverlässiger Hook
+A Win-gomb horga saját szálon fut kivételvédelemmel, így a Windows nem szedi le.	The Win key hook runs on its own thread with exception protection, so Windows does not remove it.	Der Win-Tasten-Hook läuft in einem eigenen Thread mit Ausnahmeschutz, sodass Windows ihn nicht entfernt.
+Ötletek – terminál	Ideas – terminal	Ideen – Terminal
+Időgép-blokkok	Time machine blocks	Zeitmaschinen-Blöcke
+Terv	Planned	Geplant
+Minden parancs kimenete pillanatképként megmarad; két futás kimenete színes diff-fel összevethető.	The output of every command is kept as a snapshot; the output of two runs can be compared with a colored diff.	Die Ausgabe jedes Befehls bleibt als Schnappschuss erhalten; die Ausgaben zweier Läufe lassen sich mit einem farbigen Diff vergleichen.
+Szemétkosár a veszélyes parancsoknak	Trash can for dangerous commands	Papierkorb für gefährliche Befehle
+Az rm -rf / git clean helyett árnyék-kukába kerülnek a fájlok, 24 óráig visszahozhatók.	Instead of rm -rf / git clean, files go to a shadow trash and can be restored for 24 hours.	Statt rm -rf / git clean landen die Dateien in einem Schatten-Papierkorb und lassen sich 24 Stunden lang wiederherstellen.
+Hiba-magyarázó a blokkon	Error explainer on the block	Fehlererklärer am Block
+Piros blokk → egy kattintással a hiba és a projekt környezete egy AI-hoz megy; a javaslat futtatható paranccsal tér vissza.	Red block → one click sends the error and the project context to an AI; the suggestion comes back with a runnable command.	Roter Block → mit einem Klick gehen der Fehler und der Projektkontext an eine KI; der Vorschlag kommt mit einem ausführbaren Befehl zurück.
+Visszajátszható run book	Replayable run book	Wiedergabefähiges Runbook
+Paletta: „Run book” – az utolsó 10 blokk (parancs, állapot, idő, kimenet) önálló HTML-be az asztalra. (Lépésenkénti lejátszó még nincs.)	Palette: “Run book” – the last 10 blocks (command, status, time, output) as a standalone HTML file on the desktop. (No step-by-step player yet.)	Palette: „Run book“ – die letzten 10 Blöcke (Befehl, Status, Zeit, Ausgabe) als eigenständige HTML-Datei auf dem Desktop. (Einen schrittweisen Player gibt es noch nicht.)
+Figyelő-blokk bármire	Watch block for anything	Überwachungsblock für alles
+Paletta: „Figyelő-blokk” – az utolsó parancs újrafut, ha a mappában fájl változik (node_modules, .git, bin, obj, dist kimarad). Kapcsolóként működik.	Palette: “Watch block” – the last command reruns when a file in the folder changes (node_modules, .git, bin, obj, dist are excluded). Works as a toggle.	Palette: „Watch block“ – der letzte Befehl wird erneut ausgeführt, wenn sich eine Datei im Ordner ändert (node_modules, .git, bin, obj, dist sind ausgenommen). Funktioniert als Schalter.
+Dev-szerver szellem-panel	Dev server ghost panel	Geisterpanel für Dev-Server
+A hosszan futó szerver kimenete egysoros élő állapotjelzővé zsugorodik a lapsávban.	The output of a long-running server shrinks into a one-line live status indicator in the tab bar.	Die Ausgabe eines lange laufenden Servers schrumpft zu einer einzeiligen Live-Statusanzeige in der Tab-Leiste.
+Kimenet-térkép	Output map	Ausgabe-Übersicht
+Minimap a görgetősáv mellett: blokkok színezve, hibák piros jellel, kimenet-hajtogatás.	Minimap next to the scrollbar: blocks colored, errors marked in red, output folding.	Minimap neben der Bildlaufleiste: Blöcke farbig, Fehler rot markiert, Ausgabe einklappbar.
+Személyes parancs-előrejelzés	Personal command prediction	Persönliche Befehlsvorhersage
+Szürke szellem-javaslat a saját előzményeidből (mappa, git-ág, napszak szerint), helyi modellel.	Gray ghost suggestion from your own history (by folder, git branch, time of day), using a local model.	Graue Geistervorschläge aus deinem eigenen Verlauf (nach Ordner, Git-Branch, Tageszeit) mit einem lokalen Modell.
+OCR-beillesztés	OCR paste	OCR-Einfügen
+Win+Shift+T: képernyőrészletből (Windows OCR) szöveg a terminálba.	Win+Shift+T: text from a screen region (Windows OCR) into the terminal.	Win+Shift+T: Text aus einem Bildschirmausschnitt (Windows-OCR) ins Terminal.
+Előnézet mobil-teszttel	Preview with mobile testing	Vorschau mit Mobiltest
+Hálózat-szimuláció, sötét/világos váltás, QR-kód a telefonos teszthez.	Network simulation, dark/light toggle, QR code for testing on a phone.	Netzwerksimulation, Umschalten zwischen Dunkel/Hell, QR-Code für den Test auf dem Telefon.
+Hangvezérelt paletta	Voice-controlled palette	Sprachgesteuerte Palette
+„Indítsd a dev szervert” offline beszédfelismeréssel.	“Start the dev server” with offline speech recognition.	„Starte den Dev-Server“ mit Offline-Spracherkennung.
+Ötletek – Lumen, dokk	Ideas – Lumen, dock	Ideen – Lumen, Dock
+Projekt-memóriamérleg	Project memory balance	Projekt-Speicherbilanz
+A folyamatokat projektekhez rendeli („climarkai-website: 2,1 GB”), egy gombbal felfüggeszthető/folytatható.	Assigns processes to projects (“climarkai-website: 2.1 GB”), can be suspended/resumed with one button.	Ordnet Prozesse Projekten zu („climarkai-website: 2,1 GB“), mit einer Schaltfläche anhalt- und fortsetzbar.
+Böngésző-fül fagyasztó	Browser tab freezer	Browser-Tab-Einfrierer
+Brave/Chrome füleket külön rangsorol memória szerint, és bezárás nélkül lefagyasztja őket.	Ranks Brave/Chrome tabs separately by memory and freezes them without closing.	Ordnet Brave-/Chrome-Tabs separat nach Speicherverbrauch und friert sie ein, ohne sie zu schließen.
+Alvó localhost	Sleeping localhost	Schlafender localhost
+A tétlen dev szervert felfüggeszti, az első kérésnél egy kis proxy visszaébreszti.	Suspends an idle dev server; a small proxy wakes it up again on the first request.	Hält einen inaktiven Dev-Server an; ein kleiner Proxy weckt ihn bei der ersten Anfrage wieder auf.
+Lusta autostart	Lazy autostart	Verzögerter Autostart
+Az induló programok egyenként, tétlenség után indulnak: a bejelentkezés azonnal használható.	Startup programs launch one by one after idle time: sign-in is usable immediately.	Autostart-Programme starten einzeln nach Leerlauf: Die Anmeldung ist sofort nutzbar.
+Háttérkép-követő téma	Wallpaper-following theme	Hintergrundbild-folgendes Design
+A Wallpaper Engine élő képéből palettát nyer, és az üvegfelületek színe lassan vele változik.	Derives a palette from the live image of Wallpaper Engine, and the color of the glass surfaces slowly changes with it.	Gewinnt eine Palette aus dem Live-Bild von Wallpaper Engine, und die Farbe der Glasflächen ändert sich langsam mit.
+Projekt-munkaterület recept	Project workspace recipe	Projekt-Arbeitsbereich-Rezept
+Szerkesztő, terminál-lapok, böngésző, Docker és ablakelrendezés egy kattintással a dokkról.	Editor, terminal tabs, browser, Docker and window layout in one click from the dock.	Editor, Terminal-Tabs, Browser, Docker und Fensteranordnung mit einem Klick vom Dock.
+Munkamenet időgép	Session time machine	Sitzungs-Zeitmaschine
+Ablakok, terminál-lapok, git stash, böngészőfülek lefagyasztása; hétfőn visszaáll a péntek 17:00-s állapot.	Windows, terminal tabs, git stash, freezing browser tabs; on Monday the Friday 5:00 PM state is restored.	Fenster, Terminal-Tabs, Git-Stash, Einfrieren von Browser-Tabs; am Montag wird der Stand von Freitag 17:00 Uhr wiederhergestellt.
+Élő dokk-jelvények	Live dock badges	Live-Dock-Abzeichen
+VS Code ikonon bukó tesztek száma, Terminal ikonon futó blokkok előrehaladás-gyűrűje.	Number of failing tests on the VS Code icon, progress ring of running blocks on the Terminal icon.	Anzahl fehlgeschlagener Tests am VS-Code-Symbol, Fortschrittsring laufender Blöcke am Terminal-Symbol.
+Heti „mi húzza le a gépet?” riport	Weekly “what is slowing down your PC?” report	Wöchentlicher Bericht „Was bremst deinen PC?“
+A wiper oldalon jobb klikk → „Heti riport”: HTML kártya a napi átlagokkal, csúcsokkal, legnagyobb fogyasztókkal, seprésekkel.	On the wiper page right-click → “Weekly report”: an HTML card with daily averages, peaks, biggest consumers, sweeps.	Auf der Wiper-Seite Rechtsklick → „Wochenbericht“: eine HTML-Karte mit Tagesdurchschnitten, Spitzen, größten Verbrauchern und Bereinigungen.
+Saját ötleteim	My own ideas	Meine eigenen Ideen
+Folyamatban	In progress	In Arbeit
+📖  Súgó	📖  Help	📖  Hilfe
+Keresés a súgóban	Search help	In der Hilfe suchen
++ Új ▾	+ New ▾	+ Neu ▾
+Új sárga jegyzet	New yellow note	Neue gelbe Notiz
+Új saját ötlet / bejegyzés	New own idea / entry	Neue eigene Idee / neuer Eintrag
+💡 Ötletek	💡 Ideas	💡 Ideen
+Húzd egy kártyára az összekötéshez	Drag onto a card to connect	Auf eine Karte ziehen, um zu verbinden
+Kattints: állapot váltása	Click: change status	Klicken: Status ändern
+▶ Megnyitás a Lumenben	▶ Open in Lumen	▶ In Lumen öffnen
+JEGYZETEIM	MY NOTES	MEINE NOTIZEN
+(üres jegyzet)	(empty note)	(leere Notiz)
+sárga jegyzet	yellow note	gelbe Notiz
+Még nincs jegyzeted. A fában a „+ Új” menüvel sárga jegyzetet tehetsz le, egy kártya megnyitásakor pedig a „Jegyzeteim” mezőbe írhatsz.	You have no notes yet. In the tree you can place a yellow note with the “+ New” menu, and when opening a card you can write in the “My notes” field.	Du hast noch keine Notizen. Im Baum kannst du über das Menü „+ Neu“ eine gelbe Notiz ablegen, und beim Öffnen einer Karte kannst du in das Feld „Meine Notizen“ schreiben.
+Mind	All	Alle
+Ötlet	Idea	Idee
+Saját	Own	Eigene
+Új ötlet	New idea	Neue Idee
+üveg vezérlőközpont	glass control center	Glas-Kontrollzentrum
+A Wallpaper Engine nem található (Steam könyvtár?)	Wallpaper Engine not found (Steam library?)	Wallpaper Engine wurde nicht gefunden (Steam-Bibliothek?)
+✓ A háttér újraindult (	✓ Wallpaper restarted (	✓ Hintergrund neu gestartet (
+Boncolás – 	Dissect – 	Sezieren – 
+Adatok gyűjtése…	Collecting data…	Daten werden gesammelt…
+Indításkor tiltás	Disable at startup	Beim Start deaktivieren
+Bezár	Close	Schließen
+Név:          	Name:         	Name:         
+Elindult:     	Started:      	Gestartet:    
+Memória:      	Memory:       	Speicher:     
+ MB munkakészlet, 	 MB working set, 	 MB Arbeitssatz, 
+ MB privát; 	 MB private; 	 MB privat; 
+ szál, 	 threads, 	 Threads, 
+A folyamat már nem fut: 	The process is no longer running: 	Der Prozess läuft nicht mehr: 
+Útvonal:      	Path:         	Pfad:         
+Parancssor:   	Command line: 	Befehlszeile: 
+Szülő-lánc:	Parent chain:	Elternkette:
+(a szülő már nem fut: 	(the parent is no longer running: 	(der Elternprozess läuft nicht mehr: 
+Nyitott (figyelő) portok:	Open (listening) ports:	Offene (lauschende) Ports:
+  nincs	  none	  keine
+Indítási bejegyzések:	Startup entries:	Autostart-Einträge:
+  Indítópult: 	  Startup folder: 	  Autostart-Ordner: 
+  nincs Run / Indítópult bejegyzés (lehet ütemezett feladat vagy szolgáltatás)	  no Run / Startup folder entry (may be a scheduled task or service)	  kein Run-/Autostart-Ordner-Eintrag (kann eine geplante Aufgabe oder ein Dienst sein)
+Ezek a bejegyzések törlődnek az automatikus indításból (a program nem szűnik meg, csak nem indul el magától):\n\n	These entries will be removed from automatic startup (the program is not removed, it just won't start by itself):\n\n	Diese Einträge werden aus dem automatischen Start entfernt (das Programm bleibt erhalten, startet nur nicht mehr von selbst):\n\n
+\n✓ Törölve az indításból (mentés: devhub\\autostart-removed.txt).	\n✓ Removed from startup (backup: devhub\\autostart-removed.txt).	\n✓ Aus dem Autostart entfernt (Sicherung: devhub\\autostart-removed.txt).
+Folyamatok	Processes	Prozesse
+Teljesítmény	Performance	Leistung
+Indítás	Startup	Autostart
+60 másodperc	60 seconds	60 Sekunden
+Processzor	Processor	Prozessor
+Memória	Memory	Arbeitsspeicher
+Lemez	Disk	Datenträger
+Hálózat	Network	Netzwerk
+ logikai processzor	 logical processors	 logische Prozessoren
+% kihasználtság az elmúlt 60 másodpercben	% utilization over the last 60 seconds	% Auslastung in den letzten 60 Sekunden
+Kihasználtság	Utilization	Auslastung
+Szálak	Threads	Threads
+Kezelők	Handles	Handles
+Működési idő	Uptime	Betriebszeit
+Memóriahasználat	Memory usage	Speicherauslastung
+Használatban	In use	In Verwendung
+Elérhető	Available	Verfügbar
+Lefoglalt	Committed	Zugesichert
+Gyorsítótárazott	Cached	Zwischengespeichert
+Aktív idő	Active time	Aktive Zeit
+Lemez-aktivitás (% idő)	Disk activity (% time)	Datenträgeraktivität (% Zeit)
+Hálózati forgalom (küldés + fogadás), skála: 	Network traffic (send + receive), scale: 	Netzwerkverkehr (Senden + Empfangen), Skala: 
+nem elérhető	not available	nicht verfügbar
+GPU használat (3D motorok összege)	GPU usage (sum of 3D engines)	GPU-Auslastung (Summe der 3D-Engines)
+Használat	Usage	Auslastung
+nem mérhető	not measurable	nicht messbar
+Az automatikusan induló programok. A letiltás visszafordítható (a Windows saját Indítás-kapcsolóját állítja, mint a gyári Feladatkezelő).	Programs that start automatically. Disabling is reversible (it sets Windows' own Startup switch, like the stock Task Manager).	Programme, die automatisch starten. Das Deaktivieren ist umkehrbar (es setzt den Autostart-Schalter von Windows, wie im Standard-Task-Manager).
+Felhasználó	User	Benutzer
+Rendszer	System	System
+Indítópult	Startup folder	Autostart-Ordner
+ induló elem · a letiltás visszafordítható (a Windows saját Indítás-kapcsolóját állítja)	 startup items · disabling is reversible (it sets Windows' own Startup switch)	 Autostart-Elemente · das Deaktivieren ist umkehrbar (es setzt den Autostart-Schalter von Windows)
+Engedélyezve	Enabled	Aktiviert
+Letiltva	Disabled	Deaktiviert
+Kattints a váltáshoz	Click to toggle	Zum Umschalten klicken
+Nincs automatikusan induló elem.	No automatic startup items.	Keine automatischen Autostart-Elemente.
+<h2 style="margin:0 0 4px">📈 Mi húzza le a gépet?</h2><div style="color:#9a9aa2;margin-bottom:18px">	<h2 style="margin:0 0 4px">📈 What is slowing down your PC?</h2><div style="color:#9a9aa2;margin-bottom:18px">	<h2 style="margin:0 0 4px">📈 Was bremst deinen PC?</h2><div style="color:#9a9aa2;margin-bottom:18px">
+ mérés</div>	 samples</div>	 Messungen</div>
+<p>Még nincs elég mérés ehhez a riporthoz.</p></div>	<p>There are not enough measurements for this report yet.</p></div>	<p>Für diesen Bericht gibt es noch nicht genügend Messungen.</p></div>
+ óra)	 h)	 Std.)
+Seprés	Sweep	Bereinigung
+Felszabadított	Freed	Freigegeben
+<h3 style="margin:10px 0 8px">Napi átlag / csúcs</h3>	<h3 style="margin:10px 0 8px">Daily average / peak</h3>	<h3 style="margin:10px 0 8px">Tagesdurchschnitt / Spitze</h3>
+<h3 style="margin:18px 0 8px">Legnagyobb fogyasztók (átlag)</h3>	<h3 style="margin:18px 0 8px">Biggest consumers (average)</h3>	<h3 style="margin:18px 0 8px">Größte Verbraucher (Durchschnitt)</h3>
+<p style="color:#9a9aa2;margin-top:18px">💡 Általában 	<p style="color:#9a9aa2;margin-top:18px">💡 Usually around 	<p style="color:#9a9aa2;margin-top:18px">💡 Normalerweise gegen 
+:00 körül a legnehezebb a gép (átlag 	:00 is when the machine is under the heaviest load (average 	:00 Uhr ist der Rechner am stärksten ausgelastet (Durchschnitt 
+Automatikus seprés KI	Auto sweep OFF	Automatische Bereinigung AUS
+% felett	% or above	% oder mehr
+ percenként	 min interval	 Min. Intervall
+Automatikus seprés BE · 	Auto sweep ON · 	Automatische Bereinigung EIN · 
+nincs feltétel	no condition	keine Bedingung
+ · legkorábban 	 · earliest 	 · frühestens 
+ óra között	 o'clock window	 Uhr (Zeitfenster)
+ · csak tétlenül	 · only when idle	 · nur im Leerlauf
+ · okos mód	 · smart mode	 · Smart-Modus
+Óvatos	Cautious	Vorsichtig
+Kiegyensúlyozott	Balanced	Ausgewogen
+Agresszív (50%)	Aggressive (50%)	Aggressiv (50 %)
+Csak időzítve	Timed only	Nur zeitgesteuert
+Játék / munka közben csendben	Quiet while gaming / working	Still beim Spielen / Arbeiten
+A GlassControl a háttérben (akár zárt ablakkal, tálca ikonként) méri a memóriát és sepri, ha a feltételek teljesülnek.	GlassControl measures memory in the background (even with the window closed, as a tray icon) and sweeps when the conditions are met.	GlassControl misst den Arbeitsspeicher im Hintergrund (auch bei geschlossenem Fenster, als Taskleistensymbol) und bereinigt, wenn die Bedingungen erfüllt sind.
+Induljon, ha a használt memória eléri	Start when used memory reaches	Starten, wenn der belegte Speicher erreicht
+…vagy ha a szabad memória ez alá esik	…or when free memory falls below this	…oder wenn der freie Speicher darunter fällt
+…vagy időzítve, ennyi percenként	…or timed, every this many minutes	…oder zeitgesteuert, alle so viele Minuten
+Két seprés között legalább	At least between two sweeps	Mindestens zwischen zwei Bereinigungen
+Ettől az órától (naponta)	From this hour (daily)	Ab dieser Uhrzeit (täglich)
+Eddig az óráig	Until this hour	Bis zu dieser Uhrzeit
+Csak ha nem használod a gépet	Only when you are not using the PC	Nur wenn du den PC nicht benutzt
+Csak akkor seper, ha ennyi ideje nem nyúltál az egérhez/billentyűzethez.	Sweeps only if you have not touched the mouse/keyboard for this long.	Bereinigt nur, wenn du Maus/Tastatur so lange nicht berührt hast.
+Tétlenség ideje	Idle time	Leerlaufzeit
+Mikor induljon	When to start	Wann starten
+Az analytics\\memory\\memory.txt alapján: a háttérben felfúvódó programokkal kezd, kihagyja ahol alig van nyereség, és ha az adott óra általában nehéz, előbb indul.	Based on analytics\\memory\\memory.txt: starts with programs that bloat in the background, skips those with little gain, and starts earlier if the given hour is usually heavy.	Basierend auf analytics\\memory\\memory.txt: beginnt mit Programmen, die im Hintergrund aufquellen, überspringt solche mit geringem Gewinn und startet früher, wenn die jeweilige Stunde meist stark ausgelastet ist.
+Az előtérben lévő program védelme	Protect the foreground program	Programm im Vordergrund schützen
+Amit éppen használsz, ahhoz nem nyúl (nincs belassulás).	It does not touch what you are currently using (no slowdown).	Was du gerade benutzt, wird nicht angetastet (keine Verlangsamung).
+Csak az ennél nagyobb folyamatokat ürítse	Only trim processes larger than this	Nur Prozesse bereinigen, die größer sind als
+Kizárt programok (soha ne ürítse; vesszővel elválasztva, pl. brave, obs64)	Excluded programs (never trim; comma-separated, e.g. brave, obs64)	Ausgeschlossene Programme (nie bereinigen; durch Komma getrennt, z. B. brave, obs64)
+Mit seperjen	What to sweep	Was bereinigt werden soll
+Indítás a Windows-szal	Start with Windows	Mit Windows starten
+A bejelentkezéskor elindul és a háttérben figyel (nem kell megnyitni).	Starts at sign-in and watches in the background (no need to open it).	Startet bei der Anmeldung und überwacht im Hintergrund (muss nicht geöffnet werden).
+Indításkor rejtve (csak tálca ikon)	Hidden at startup (tray icon only)	Beim Start ausgeblendet (nur Taskleistensymbol)
+Az automatikus indításkor nem jelenik meg az ablak.	The window does not appear on automatic startup.	Das Fenster erscheint beim automatischen Start nicht.
+A piros gomb háttérbe küld	The red button sends it to the background	Die rote Schaltfläche schickt in den Hintergrund
+Bezáráskor nem lép ki: a mérés és az automatikus seprés tovább fut a tálcán. (Kilépés: jobb klikk a fejlécen.)	It does not exit on close: measurement and automatic sweeping keep running in the tray. (Exit: right-click on the header.)	Beim Schließen wird nicht beendet: Messung und automatische Bereinigung laufen im Infobereich weiter. (Beenden: Rechtsklick auf die Kopfzeile.)
+Seprés az indítás után	Sweep after startup	Bereinigung nach dem Start
+Egyszer, a megadott késleltetéssel (a bejelentkezéskor felfújt memória rendbetételére).	Once, with the specified delay (to tidy up memory bloated at sign-in).	Einmalig, mit der angegebenen Verzögerung (um den bei der Anmeldung aufgeblähten Speicher aufzuräumen).
+Késleltetés az indítás után	Delay after startup	Verzögerung nach dem Start
+Értesítés seprés után	Notification after sweep	Benachrichtigung nach der Bereinigung
+Tálca-buborék: mennyi memória szabadult fel.	Tray bubble: how much memory was freed.	Sprechblase im Infobereich: wie viel Speicher freigegeben wurde.
+Háttérben és indításkor	Background and startup	Hintergrund und Start
+Seprés most (okos)	Sweep now (smart)	Jetzt bereinigen (smart)
+Tanult tudás megnyitása	Open learned data	Gelernte Daten öffnen
+ HIBA: 	 ERROR: 	 FEHLER: 
+Kicsi (44)	Small (44)	Klein (44)
+Nagy (68)	Large (68)	Groß (68)
+Nagyon nagy (84)	Very large (84)	Sehr groß (84)
+Automatikus (az ikonokhoz igazodik)	Automatic (follows the icons)	Automatisch (folgt den Symbolen)
+Majdnem fekete (200)	Almost black (200)	Fast schwarz (200)
+Programok (*.exe;*.lnk)|*.exe;*.lnk	Programs (*.exe;*.lnk)|*.exe;*.lnk	Programme (*.exe;*.lnk)|*.exe;*.lnk
+Parancspaletta (Ctrl+Shift+P)	Command palette (Ctrl+Shift+P)	Befehlspalette (Strg+Umschalt+P)
+Parancssor (cmd)	Command Prompt (cmd)	Eingabeaufforderung (cmd)
+. lapra	 → tab 	 → Tab 
+Broadcast KI	Broadcast OFF	Broadcast AUS
+Tablet (820 px)	Tablet (820 px)	Tablet (820 px)
+Telefon (390 px)	Phone (390 px)	Telefon (390 px)
+indul…	starting…	startet…
+Csomag adatai (winget show)	Package details (winget show)	Paketdetails (winget show)
+Program neve (pl. postman, obsidian, vlc)…	App name (e.g. postman, obsidian, vlc)…	App-Name (z. B. postman, obsidian, vlc)…
+Winget lista	Winget list	Winget-Liste
+ porton.\nA nem mentett munka elveszhet.	 port.\nUnsaved work may be lost.	 Port.\nNicht gespeicherte Arbeit kann verloren gehen.
+***(titkos, nem mentve)***	***(secret, not saved)***	***(geheim, nicht gespeichert)***
+SSH-kulcs: …	SSH key: …	SSH-Schlüssel: …
+E-mail az SSH-kulcshoz	E-mail for the SSH key	E-Mail für den SSH-Schlüssel
+🐙 GitHub SSH-kulcsok	🐙 GitHub SSH keys	🐙 GitHub-SSH-Schlüssel
+👁 Rendszer PATH	👁 System PATH	👁 System-PATH
+⚙ Rendszer-ablak (sysdm)	⚙ System window (sysdm)	⚙ Systemfenster (sysdm)
+ elem	 items	 Elemente
+SSH-kulcs: 	SSH key: 	SSH-Schlüssel: 
+↑ Vissza a bemenetre	↑ Back to input	↑ Zurück zur Eingabe
+ karakter · 	 characters · 	 Zeichen · 
+10 UUID	10 UUIDs	10 UUIDs
+API-kulcs (sk_…)	API key (sk_…)	API-Schlüssel (sk_…)
+Most: epoch + ISO	Now: epoch + ISO	Jetzt: Epoch + ISO
+\nhelyi:      	\nlocal:      	\nlokal:      
+\nhelyi: 	\nlocal: 	\nlokal: 
+',' vagy '	',' or '	',' oder '
+' kellene a(z) 	' expected for 	' erwartet bei 
+Python csomagok	Python packages	Python-Pakete
+NuGet csomagok	NuGet packages	NuGet-Pakete
+ fut / 	 running / 	 laufen / 
+Csomag neve (pl. axios, zod@latest)	Package name (e.g. axios, zod@latest)	Paketname (z. B. axios, zod@latest)
+Python projekt	Python project	Python-Projekt
+Ismeretlen sablon	Unknown template	Unbekannte Vorlage
+Projekt neve (pl. my-app)	Project name (e.g. my-app)	Projektname (z. B. my-app)
+🔮 Emelkedik (+	🔮 Rising (+	🔮 Steigend (+
+%/perc): kb. 	%/min): approx. 	%/Min.): ca. 
+%/perc)	%/min)	%/Min.)
+" folyamatot (	" processes (	" Prozesse (
+ db)?\n\nA nem mentett munka elveszhet.	 items)?\n\nUnsaved work may be lost.	 Stück)?\n\nNicht gespeicherte Arbeit kann verloren gehen.
+: most 	: now 	: jetzt 
+ db folyamat	 processes	 Prozesse
+ most	 now	 jetzt
+Egyszerre legfeljebb 	At most 	Höchstens 
+stabil (	stable (	stabil (
+Claude (CLI munkamenet)	Claude (CLI session)	Claude (CLI-Sitzung)
+Nyelvi szerver (Antigravity)	Language server (Antigravity)	Sprachserver (Antigravity)
+GlassControl (ez az app)	GlassControl (this app)	GlassControl (diese App)
+  (kattints: be/ki)	  (click: on/off)	  (Klick: an/aus)
+ perc)	 min)	 Min.)
+ ideje)	 time)	 Zeit)
+Kernel (lapozott / nem)	Kernel (paged / non-paged)	Kernel (ausgelagert / nicht ausgelagert)
+ szabad / 	 free / 	 frei / 
+3D motor	3D engine	3D-Engine
+szabad < 	free < 	frei < 
+☰ Lista	☰ List	☰ Liste
+🌳 Fa	🌳 Tree	🌳 Baum
+📝 Jegyzetek	📝 Notes	📝 Notizen
+A nyelv megváltozott. Újraindítod most a Lumen-t, hogy mindenhol érvényesüljön?	The language has changed. Restart Lumen now so it applies everywhere?	Die Sprache wurde geändert. Lumen jetzt neu starten, damit sie überall gilt?
+Nyelv	Language	Sprache
+memória	memory	speicher
+folyamatok	processes	prozesse
+analitika	analytics	analytik
+fejlesztés	development	entwicklung
+súgó	help	hilfe
+csoport	group	Gruppe
+📈 Analitika	📈 Analytics	📈 Analytik
+Analitika	Analytics	Analytik
+Bekapcsolás	Turn on	Einschalten
+Vissza az eredetihez	Back to original	Zurück zum Original
+Az iOS kinézet ki van kapcsolva – minden az eredeti Windows-kinézetben van.	The iOS look is turned off – everything uses the original Windows look.	Der iOS-Look ist ausgeschaltet – alles nutzt das originale Windows-Aussehen.
+Leveszi az iOS kinézetet mindenhonnan (dokk, tálca, Start menü, felugró ablakok, asztali ikonok képe). Az ikonok elrendezése nem változik. Később a „Bekapcsolás” gombbal visszakapcsolható.	Removes the iOS look everywhere (dock, taskbar, Start menu, flyouts, desktop icon images). Your icon layout stays as it is. Use “Turn on” to bring it back later.	Entfernt den iOS-Look überall (Dock, Taskleiste, Startmenü, Flyouts, Desktop-Symbolbilder). Die Symbolanordnung bleibt. Mit „Einschalten“ jederzeit zurück.

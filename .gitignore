@@ -1,0 +1,35 @@
+# build intermediates (the three main exes ARE committed so a download runs immediately)
+*.pdb
+*.jit
+__pycache__/
+.pnpm-store/
+backup*/
+
+# personal data / runtime state
+analytics/
+devhub/
+help/
+startup/
+desktop-shortcuts-backup/
+desktop-*.reg
+desktop-positions.txt
+desktop-icons.hash
+memoria_naplo.txt
+focus-toast.txt
+install.ini
+*.log
+dock/settings.ini
+dock/disabled.txt
+dock/flyout-hwnds.txt
+dock/desktop-tiles/
+dock/desktop-tiles*/
+dock/*.txt
+dock/*.png
+terminal/session.ini
+terminal/term.ini
+terminal/snippets.txt
+terminal/*.png
+fonts/inter-src/extras/
+fonts/inter-src/web/
+taskbar-ios/tools/
+taskbar-ios/*.reg
