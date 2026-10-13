@@ -1094,14 +1094,22 @@ namespace GlassDock
             else if (SHGetFileInfo(path, 0, ref fi, size, 0x4000) == IntPtr.Zero) return false;
             idx = fi.iIcon; return true;
         }
-        [DllImport("shell32.dll", EntryPoint = "#727")] static extern int SHGetImageList(int list, ref Guid riid, out IImageList ppv);
+        [DllImport("shell32.dll", EntryPoint = "#727")] static extern int SHGetImageListRaw(int list, ref Guid riid, out IntPtr ppv);
+        [UnmanagedFunctionPointer(CallingConvention.StdCall)] delegate int GetIconD(IntPtr self, int i, int flags, out IntPtr icon);
+        static readonly object jumboLock = new object();
         [DllImport("user32.dll")] static extern bool DestroyIcon(IntPtr h);
         // az adott fajl (parancsikon, .url...) ikonja 256 px-en, a parancsikon-nyil nelkul
         public static BitmapSource Jumbo(string path)
         {
             int iconIdx; if (!IconIndex(path, out iconIdx)) return null;
-            Guid iid = new Guid("46EB5926-582E-4017-9FDF-E8998DAA0950"); IImageList il; if (SHGetImageList(4, ref iid, out il) != 0 || il == null) return null;
-            IntPtr hi = IntPtr.Zero; if (il.GetIcon(iconIdx, 1, ref hi) != 0 || hi == IntPtr.Zero) return null;
+            IntPtr hi = IntPtr.Zero;
+            lock (jumboLock)
+            {
+                Guid iid = new Guid("46EB5926-582E-4017-9FDF-E8998DAA0950"); IntPtr il; if (SHGetImageListRaw(4, ref iid, out il) != 0 || il == IntPtr.Zero) return null;
+                try { IntPtr vt = Marshal.ReadIntPtr(il); GetIconD gi = (GetIconD)Marshal.GetDelegateForFunctionPointer(Marshal.ReadIntPtr(vt, 10 * IntPtr.Size), typeof(GetIconD)); if (gi(il, iconIdx, 1, out hi) != 0) hi = IntPtr.Zero; }
+                finally { Marshal.Release(il); }
+            }
+            if (hi == IntPtr.Zero) return null;
             try
             {
                 BitmapSource b = new FormatConvertedBitmap(Imaging.CreateBitmapSourceFromHIcon(hi, Int32Rect.Empty, BitmapSizeOptions.FromWidthAndHeight(256, 256)), PixelFormats.Pbgra32, null, 0);
@@ -1145,7 +1153,7 @@ namespace GlassDock
     {
         static string root, bak, icoDir, logf; static bool failQuiet;
         static List<FileSystemWatcher> fws = new List<FileSystemWatcher>(); static Dictionary<string, DateTime> pending = new Dictionary<string, DateTime>(); static object lk = new object();
-        static HashSet<string> failed = new HashSet<string>(); static DispatcherTimer tm;
+        static HashSet<string> failed = new HashSet<string>(); static Dictionary<string, int> failCnt = new Dictionary<string, int>(); static DispatcherTimer tm;
         [DllImport("shell32.dll", CharSet = CharSet.Unicode)] static extern void SHChangeNotify(int e, uint f, string a, IntPtr b);
 
         public static void Init(string dir)
@@ -1238,7 +1246,7 @@ namespace GlassDock
                 File.AppendAllText(Path.Combine(root, "map.txt"), id + "|" + path + Environment.NewLine);
                 SHChangeNotify(0x2000, 0x5, path, IntPtr.Zero); Log("ok: " + path); return true;
             }
-            catch (Exception ex) { lock (failed) failed.Add(path); Log("HIBA " + path + ": " + ex.Message); return false; }
+            catch (Exception ex) { int fc; lock (failed) { failCnt.TryGetValue(path, out fc); failCnt[path] = ++fc; if (fc >= 5) failed.Add(path); } Log("HIBA " + path + " (" + fc + "): " + ex.Message); if (fc < 5) Enq(path, 4000 * fc); return false; }
         }
         public static List<string> Scan(string[] dirs)
         {
@@ -1268,12 +1276,13 @@ namespace GlassDock
                 try
                 {
                     FileSystemWatcher w = new FileSystemWatcher(d); w.NotifyFilter = NotifyFilters.FileName | NotifyFilters.LastWrite | NotifyFilters.CreationTime;
-                    FileSystemEventHandler h = delegate(object o, FileSystemEventArgs e) { lock (failed) failed.Remove(e.FullPath); Enq(e.FullPath, 2500); };
+                    FileSystemEventHandler h = delegate(object o, FileSystemEventArgs e) { lock (failed) { failed.Remove(e.FullPath); failCnt.Remove(e.FullPath); } Enq(e.FullPath, 2500); };
                     w.Created += h; w.Changed += h; w.Renamed += delegate(object o, RenamedEventArgs e) { Enq(e.FullPath, 2500); }; w.EnableRaisingEvents = true; fws.Add(w);
                 }
                 catch (Exception ex) { Log("figyeles HIBA " + d + ": " + ex.Message); }
             }
             foreach (string f in Scan(null)) Enq(f, 3000);
+            DispatcherTimer rs = new DispatcherTimer { Interval = TimeSpan.FromSeconds(90) }; rs.Tick += delegate { foreach (string f in Scan(null)) Enq(f, 500); rs.Interval = TimeSpan.FromMinutes(10); }; rs.Start();      // utólagos átnézés: ami kimaradt, pótoljuk
             tm = new DispatcherTimer(); tm.Interval = TimeSpan.FromMilliseconds(300);
             tm.Tick += delegate
             {
