@@ -43,7 +43,7 @@ namespace GlassControlWpf
             Border root = new Border { Background = Bg, CornerRadius = new CornerRadius(16), BorderBrush = new SolidColorBrush(Color.FromArgb(60, 255, 255, 255)), BorderThickness = new Thickness(1), Margin = new Thickness(6) };
             Grid g = new Grid(); g.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto }); g.RowDefinitions.Add(new RowDefinition());
             DockPanel bar = new DockPanel { Margin = new Thickness(18, 12, 12, 6), Background = Brushes.Transparent };
-            TextBlock x = new TextBlock { Text = "✕", Foreground = Brushes.White, FontSize = 15, Cursor = Cursors.Hand, Padding = new Thickness(10, 2, 10, 2) }; x.MouseLeftButtonUp += delegate { Close(); }; DockPanel.SetDock(x, Dock.Right); bar.Children.Add(x);
+            TextBlock x = new TextBlock { Text = "✕", Foreground = Brushes.White, FontSize = 15, Cursor = Cursors.Hand, Padding = new Thickness(10, 2, 10, 2) }; x.MouseLeftButtonDown += delegate (object s0, MouseButtonEventArgs e0) { e0.Handled = true; Close(); }; x.MouseEnter += delegate { x.Foreground = new SolidColorBrush(Color.FromRgb(255, 69, 58)); }; x.MouseLeave += delegate { x.Foreground = Brushes.White; }; KeyDown += delegate (object s1, KeyEventArgs e1) { if (e1.Key == Key.Escape) Close(); }; DockPanel.SetDock(x, Dock.Right); bar.Children.Add(x);
             bar.Children.Add(new TextBlock { Text = Loc.T("🎛  Hardver-vezérlő"), Foreground = Brushes.White, FontSize = 16, FontWeight = FontWeights.SemiBold });
             bar.MouseLeftButtonDown += delegate (object s, MouseButtonEventArgs e) { try { DragMove(); } catch { } };
             body = new StackPanel { Margin = new Thickness(18, 4, 18, 18) };
