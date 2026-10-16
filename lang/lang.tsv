@@ -1502,3 +1502,42 @@ Bekapcsolás	Turn on	Einschalten
 Vissza az eredetihez	Back to original	Zurück zum Original
 Az iOS kinézet ki van kapcsolva – minden az eredeti Windows-kinézetben van.	The iOS look is turned off – everything uses the original Windows look.	Der iOS-Look ist ausgeschaltet – alles nutzt das originale Windows-Aussehen.
 Leveszi az iOS kinézetet mindenhonnan (dokk, tálca, Start menü, felugró ablakok, asztali ikonok képe). Az ikonok elrendezése nem változik. Később a „Bekapcsolás” gombbal visszakapcsolható.	Removes the iOS look everywhere (dock, taskbar, Start menu, flyouts, desktop icon images). Your icon layout stays as it is. Use “Turn on” to bring it back later.	Entfernt den iOS-Look überall (Dock, Taskleiste, Startmenü, Flyouts, Desktop-Symbolbilder). Die Symbolanordnung bleibt. Mit „Einschalten“ jederzeit zurück.
+nem látok futó AI / fejlesztői folyamatot	no running AI / dev processes detected	keine laufenden KI-/Entwicklerprozesse erkannt
+ folyamat védve	 processes protected	 Prozesse geschützt
+⚡ Gyorsítva: 	⚡ Sped up: 	⚡ Beschleunigt: 
+ háttérprogram visszavéve	 background apps throttled	 Hintergrund-Apps gedrosselt
+ régi fájl törölve, 	 old files deleted, 	 alte Dateien gelöscht, 
+🎛  Hardver-vezérlő	🎛  Hardware control	🎛  Hardware-Steuerung
+Monitorok (fényerő / kontraszt)	Monitors (brightness / contrast)	Monitore (Helligkeit / Kontrast)
+Monitorok keresése…	Looking for monitors…	Suche Monitore…
+Hőmérséklet és ventilátor	Temperature and fans	Temperatur und Lüfter
+LED / RGB világítás	LED / RGB lighting	LED- / RGB-Beleuchtung
+Monitor 	Monitor 	Monitor 
+ (fő)	 (primary)	 (primär)
+Nem találtam vezérelhető monitort.	No controllable monitor found.	Kein steuerbarer Monitor gefunden.
+Ez a monitor nem engedi a vezérlést (kapcsold be a monitor saját menüjében a DDC/CI opciót).	This monitor does not allow control (enable the DDC/CI option in the monitor’s own menu).	Dieser Monitor erlaubt keine Steuerung (DDC/CI im Monitormenü aktivieren).
+Fényerő	Brightness	Helligkeit
+Kontraszt	Contrast	Kontrast
+MSI Afterburner nincs telepítve: a ventilátor-sebesség és a hőmérséklet csak vele (vagy gyártói szoftverrel) vezérelhető.	MSI Afterburner is not installed: fan speed and temperature can only be controlled with it (or with the vendor’s software).	MSI Afterburner ist nicht installiert: Lüfter und Temperatur lassen sich nur damit (oder mit Herstellersoftware) steuern.
+A ventilátor-görbét az Afterburnerben állítod be és mented profilba (1–5); itt egy kattintással átváltasz közöttük.	Set the fan curve in Afterburner and save it into a profile (1–5); switch between them here with one click.	Stelle die Lüfterkurve im Afterburner ein und speichere sie als Profil (1–5); hier wechselst du mit einem Klick.
+Profil 	Profile 	Profil 
+MSI Afterburner megnyitása	Open MSI Afterburner	MSI Afterburner öffnen
+Az MSI Afterburner nem fut – indítsd el (alul), és itt megjelennek az élő értékek.	MSI Afterburner is not running – start it (below) and live values appear here.	MSI Afterburner läuft nicht – starte ihn (unten), dann erscheinen hier Live-Werte.
+Élő értékek (MSI Afterburner)	Live values (MSI Afterburner)	Live-Werte (MSI Afterburner)
+LED-vezérléshez az ingyenes, nyílt forrású OpenRGB kell (az alaplap: 	LED control needs the free, open-source OpenRGB (your board: 	Für LED-Steuerung wird das kostenlose Open-Source-Programm OpenRGB benötigt (dein Board: 
+). Telepítés után itt színt választhatsz.	). After installing it, you can pick a color here.	). Nach der Installation kannst du hier eine Farbe wählen.
+OpenRGB letöltése	Download OpenRGB	OpenRGB herunterladen
+Szín az összes támogatott eszközre (OpenRGB):	Color for all supported devices (OpenRGB):	Farbe für alle unterstützten Geräte (OpenRGB):
+Ki	Off	Aus
+OpenRGB megnyitása	Open OpenRGB	OpenRGB öffnen
+Bekapcsolva folyamatosan észleli az AI-eszközöket (Claude, Antigravity, Cursor, Ollama…) és a localhost szervereket, azokat nem húzza össze, a többit viszont karbantartja, hogy mindig legyen szabad RAM	When on, it continuously detects AI tools (Claude, Antigravity, Cursor, Ollama…) and localhost servers, leaves them alone, and keeps everything else trimmed so free RAM is always available	Erkennt im eingeschalteten Zustand laufend KI-Tools (Claude, Antigravity, Cursor, Ollama…) und localhost-Server, lässt sie in Ruhe und hält alles andere schlank, damit immer freier RAM da ist
+⚡  Fastening	⚡  Fastening	⚡  Fastening
+Gyorsítás RAM-kímélően: a háttérben sokat számoló programok alacsonyabb prioritást kapnak, a 3 napnál régebbi Temp-fájlok törlődnek, majd memória-seprés	RAM-friendly speed-up: busy background programs get lower priority, Temp files older than 3 days are deleted, then a memory sweep runs	RAM-schonende Beschleunigung: rechenintensive Hintergrundprogramme bekommen niedrigere Priorität, Temp-Dateien älter als 3 Tage werden gelöscht, dann folgt ein Speicher-Sweep
+⚡  Gyorsítás…	⚡  Speeding up…	⚡  Beschleunige…
+Gyorsítás folyamatban…	Speeding up…	Beschleunigung läuft…
+🎛  Hardware	🎛  Hardware	🎛  Hardware
+Monitorok fényereje, ventilátorok, LED-ek (MSI Afterburner / OpenRGB)	Monitor brightness, fans, LEDs (MSI Afterburner / OpenRGB)	Monitorhelligkeit, Lüfter, LEDs (MSI Afterburner / OpenRGB)
+🤖  For AI programming: BE	🤖  For AI programming: ON	🤖  For AI programming: AN
+🤖  For AI programming: KI	🤖  For AI programming: OFF	🤖  For AI programming: AUS
+szabad: 	free: 	frei: 
+AI mód: kevés szabad RAM	AI mode: low free RAM	KI-Modus: wenig freier RAM

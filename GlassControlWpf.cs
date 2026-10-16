@@ -63,6 +63,7 @@ namespace GlassControlWpf
                 int mi = Array.IndexOf(ca, "/menu"); if (mi >= 0 && mi + 1 < ca.Length) { int which = int.Parse(ca[mi + 1]); mw.Loaded += (s2, e2) => { DispatcherTimer mt = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(1800) }; mt.Tick += (s3, e3) => { mt.Stop(); mw.TestMenu(which); }; mt.Start(); }; }
                 int ai = Array.IndexOf(ca, "/adv"); if (ai >= 0 && ai + 1 < ca.Length) { double ah = double.Parse(ca[ai + 1]); mw.Loaded += (s2, e2) => mw.ShowAdvancedTest(ah); }
                 if (tab >= 0) mw.Loaded += (s2, e2) => mw.SelectTabExt(tab);
+                int hwi = Array.IndexOf(ca, "/hwtest"); if (hwi >= 0 && hwi + 1 < ca.Length) { string hwf = ca[hwi + 1]; mw.Loaded += (s2, e2) => { HardwareWindow hw0 = new HardwareWindow(); hw0.Show(); DispatcherTimer ht = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(5000) }; ht.Tick += (s3, e3) => { ht.Stop(); hw0.SavePng(hwf); Application.Current.Shutdown(); }; ht.Start(); }; }
                 int api = Array.IndexOf(ca, "/autopsy"); if (api >= 0 && api + 1 < ca.Length) { int apid; int.TryParse(ca[api + 1], out apid); mw.Loaded += (s2, e2) => { DispatcherTimer at = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(1500) }; at.Tick += (s3, e3) => { at.Stop(); ProcAutopsy.Show(mw, apid, "test"); }; at.Start(); }; }
                 int dpi2 = Array.IndexOf(ca, "/devprev"); if (dpi2 >= 0 && dpi2 + 1 < ca.Length) { string dpu = ca[dpi2 + 1]; mw.Loaded += (s2, e2) => { DispatcherTimer dt = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(5000) }; dt.Tick += (s3, e3) => { dt.Stop(); mw.TestPreview(dpu); }; dt.Start(); }; }
                 int dti = Array.IndexOf(ca, "/devterm"); if (dti >= 0 && dti + 1 < ca.Length) { string dtc = ca[dti + 1]; mw.Loaded += (s2, e2) => { DispatcherTimer dt = new DispatcherTimer { Interval = TimeSpan.FromMilliseconds(1500) }; dt.Tick += (s3, e3) => { dt.Stop(); mw.TestRunInTerminal(dtc); }; dt.Start(); }; }
@@ -923,6 +924,35 @@ namespace GlassControlWpf
         }
 
         #region Wiper View
+        // ---- "For AI programming" / "Fastening" / Hardware gombok az azonnali seprés alatt
+        private DispatcherTimer aiTimer; private TextBlock aiStatus, aiBtnTxt; private Border aiBtn, fastBtn; private bool fastBusy;
+        private Border AiPill(string text, out TextBlock tb, string tip) { tb = new TextBlock { Text = text, Foreground = Brushes.White, FontWeight = FontWeights.SemiBold, FontSize = 13, HorizontalAlignment = HorizontalAlignment.Center }; return new Border { CornerRadius = new CornerRadius(16), Background = new SolidColorBrush(Color.FromArgb(60, 255, 255, 255)), Padding = new Thickness(18, 9, 18, 9), Margin = new Thickness(5, 8, 5, 0), Cursor = Cursors.Hand, Child = tb, ToolTip = tip }; }
+        private UIElement CreateAiRow()
+        {
+            AiGuard.Load(); WrapPanel row = new WrapPanel { HorizontalAlignment = HorizontalAlignment.Center, Margin = new Thickness(0, 6, 0, 0) };
+            aiBtn = AiPill("", out aiBtnTxt, Loc.T("Bekapcsolva folyamatosan észleli az AI-eszközöket (Claude, Antigravity, Cursor, Ollama…) és a localhost szervereket, azokat nem húzza össze, a többit viszont karbantartja, hogy mindig legyen szabad RAM"));
+            aiBtn.MouseLeftButtonUp += (s, e) => SetAiMode(!AiGuard.On);
+            TextBlock ft; fastBtn = AiPill(Loc.T("⚡  Fastening"), out ft, Loc.T("Gyorsítás RAM-kímélően: a háttérben sokat számoló programok alacsonyabb prioritást kapnak, a 3 napnál régebbi Temp-fájlok törlődnek, majd memória-seprés"));
+            fastBtn.MouseLeftButtonUp += (s, e) => { if (fastBusy) return; fastBusy = true; ft.Text = Loc.T("⚡  Gyorsítás…"); aiStatus.Text = Loc.T("Gyorsítás folyamatban…");
+                Task.Run(() => { string r = Fastener.Run(); Dispatcher.BeginInvoke(new Action(() => { fastBusy = false; ft.Text = Loc.T("⚡  Fastening"); aiStatus.Text = r; if (!sweeping) { lastReason = "Fastening"; PerformWiperSweep(false); } })); }); };
+            TextBlock ht; Border hwBtn = AiPill(Loc.T("🎛  Hardware"), out ht, Loc.T("Monitorok fényereje, ventilátorok, LED-ek (MSI Afterburner / OpenRGB)"));
+            HardwareWindow hw = null; hwBtn.MouseLeftButtonUp += (s, e) => { try { if (hw != null && hw.IsLoaded) { hw.Activate(); return; } hw = new HardwareWindow(); hw.Show(); } catch { } };
+            row.Children.Add(aiBtn); row.Children.Add(fastBtn); row.Children.Add(hwBtn);
+            aiStatus = new TextBlock { FontSize = 11.5, Foreground = BrushTextMuted, HorizontalAlignment = HorizontalAlignment.Center, TextWrapping = TextWrapping.Wrap, Margin = new Thickness(20, 6, 20, 0), TextAlignment = TextAlignment.Center };
+            StackPanel sp = new StackPanel(); sp.Children.Add(row); sp.Children.Add(aiStatus); ApplyAiUi(); if (AiGuard.On) StartAiTimer(); return sp;
+        }
+        private void ApplyAiUi() { aiBtnTxt.Text = AiGuard.On ? Loc.T("🤖  For AI programming: BE") : Loc.T("🤖  For AI programming: KI"); aiBtn.Background = AiGuard.On ? new SolidColorBrush(Color.FromRgb(10, 132, 255)) : new SolidColorBrush(Color.FromArgb(60, 255, 255, 255)); if (!AiGuard.On && aiStatus != null) aiStatus.Text = ""; }
+        private void SetAiMode(bool on) { AiGuard.Set(on); ApplyAiUi(); if (on) { StartAiTimer(); AiTick(); } else if (aiTimer != null) aiTimer.Stop(); }
+        private void StartAiTimer() { if (aiTimer == null) { aiTimer = new DispatcherTimer { Interval = TimeSpan.FromSeconds(15) }; aiTimer.Tick += (s, e) => AiTick(); } aiTimer.Start(); }
+        private void AiTick()
+        {
+            Task.Run(() => { AiGuard.Scan(); Dispatcher.BeginInvoke(new Action(() => {
+                if (!AiGuard.On) return; double avail = AvailGb(), thr = Math.Max(2.5, RamTotalGb() * 0.12);
+                if (!fastBusy) aiStatus.Text = "🤖 " + AiGuard.Summary + " · " + Loc.T("szabad: ") + avail.ToString("0.0") + " GB";
+                if (!sweeping && avail < thr && (DateTime.Now - lastSweep).TotalSeconds > 45) { lastReason = Loc.T("AI mód: kevés szabad RAM"); PerformWiperSweep(true); }
+            })); });
+        }
+
         private UIElement CreateWiperView()
         {
             Grid grid = new Grid();
@@ -1030,7 +1060,7 @@ namespace GlassControlWpf
             TextBlock fTxt = new TextBlock { Text = Loc.T("🎯  Fókusz-mód: KI"), Foreground = Brushes.White, FontWeight = FontWeights.SemiBold, FontSize = 13, HorizontalAlignment = HorizontalAlignment.Center };
             Border focusBtn = new Border { CornerRadius = new CornerRadius(16), Background = new SolidColorBrush(Color.FromArgb(60, 255, 255, 255)), Padding = new Thickness(22, 9, 22, 9), Margin = new Thickness(0, 10, 0, 0), HorizontalAlignment = HorizontalAlignment.Center, Cursor = Cursors.Hand, Child = fTxt, ToolTip = Loc.T("Seprés + Wallpaper Engine szünet + felugró értesítések némítása; újra megnyomva minden visszaáll") };
             focusBtn.MouseLeftButtonUp += (s, e) => { bool on = FocusMode.Toggle(); fTxt.Text = on ? Loc.T("🎯  Fókusz-mód: BE") : Loc.T("🎯  Fókusz-mód: KI"); focusBtn.Background = on ? new SolidColorBrush(Color.FromRgb(10, 132, 255)) : new SolidColorBrush(Color.FromArgb(60, 255, 255, 255)); if (on && !sweeping) { lastReason = Loc.T("fókusz-mód"); PerformWiperSweep(false); } };
-            StackPanel stack = new StackPanel(); stack.Children.Add(grid); stack.Children.Add(forecastTxt); stack.Children.Add(focusBtn); stack.Children.Add(advBtn); stack.Children.Add(wiperAdv);
+            StackPanel stack = new StackPanel(); stack.Children.Add(grid); stack.Children.Add(CreateAiRow()); stack.Children.Add(forecastTxt); stack.Children.Add(focusBtn); stack.Children.Add(advBtn); stack.Children.Add(wiperAdv);
             ScrollViewer sv = new ScrollViewer { VerticalScrollBarVisibility = ScrollBarVisibility.Auto, HorizontalScrollBarVisibility = ScrollBarVisibility.Disabled, Content = stack, Focusable = false };
             GlassMenu.Attach(sv, WiperMenu);
             return sv;
@@ -1139,6 +1169,7 @@ namespace GlassControlWpf
                 string fg = ""; try { uint fpid; GetWindowThreadProcessId(GetForegroundWindow(), out fpid); if (fpid != 0) { Process fp = Process.GetProcessById((int)fpid); fg = fp.ProcessName.ToLowerInvariant(); fp.Dispose(); } } catch { }
                 Dictionary<string, double> byName = new Dictionary<string, double>();
 
+                bool aiOn = AiGuard.On; if (aiOn) AiGuard.Scan();      // "For AI programming": a futó AI / fejlesztői folyamatokhoz nem nyúlunk
                 int selfPid = Process.GetCurrentProcess().Id; List<Process> procs = new List<Process>(Process.GetProcesses());
                 // okos mód: a tanultan "mindig felfúvódó, háttérben futó" programok előre
                 if (smart) procs.Sort((x, y) => { int fx = 0, fy = 0; try { fx = first.Contains(x.ProcessName.ToLowerInvariant()) ? 0 : 1; } catch { } try { fy = first.Contains(y.ProcessName.ToLowerInvariant()) ? 0 : 1; } catch { } if (fx != fy) return fx.CompareTo(fy); long wx = 0, wy = 0; try { wx = x.WorkingSet64; } catch { } try { wy = y.WorkingSet64; } catch { } return wy.CompareTo(wx); });
@@ -1149,6 +1180,7 @@ namespace GlassControlWpf
                         string name = p.ProcessName.ToLowerInvariant();
                         if (p.Id <= 4 || p.Id == selfPid || Array.IndexOf(Protected, name) >= 0) continue;
                         if (cfg.IsExcluded(name)) continue;                                      // a te kizárási listád
+                        if (aiOn && AiGuard.IsProtected(p.Id)) continue;                         // AI mód: aktív AI / dev folyamat marad
                         if (protectFg && name == fg) continue;                                   // amit éppen használsz, ahhoz nem nyúlunk
                         if (smart && skipLow.Contains(name)) continue;                           // tanult: itt eddig alig volt nyereség
                         if (smart && inUse.Contains(name) && p.WorkingSet64 < 300L * 1048576) continue;      // gyakran használt kisebb program: marad
